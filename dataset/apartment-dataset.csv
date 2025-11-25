@@ -1,0 +1,766 @@
+id,name,package,numOfRooms,totalFloor,latitude,longitude,apartmentType,province,district,subDistrict,owner_name,tel,email,validatedType,isCustomer
+VOYE3qWElz,ตลาดกรีนเวย์ หาดใหญ่,Basic Package,164,1,,,noBussiness,Songkhla,Mueang Songkhla,Bo Yang,Kat Horganice,'0618824445,katthareeya.d@horganice.in.th,unreal,notCustomer
+xGFQN686CQ,โรงแรมสำหรับทดสอบ,Basic Package,15,3,7.0086472,100.4746879,hotel,Songkhla,Hat Yai,Hat Yai,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,unreal,notCustomer
+38MZHPuTuG,Lamoon villa,Basic Package,,1,,,hotel,Songkhla,Hat Yai,,ธนัชพร หมวดทอง,'0842935656,sinetanatchapron@gmail.com,unreal,notCustomer
+I21np7C642,ทุ่งทองรีสอร์ท,Basic Package,,1,7.0074644,100.4689889,hotel,Songkhla,Hat Yai,,กัลยานี ละอองชุลี,'0641405651,poolovemew@gmail.com,unreal,notCustomer
+5WArtxrY1C,ลุ่มน้ำบ้านเช่า,Basic Package,,1,,,underDevelop,Songkhla,Na Mom,,กีรติ พรมเพชร,'0863381423,Geeratiprompatch@gmail.com,unreal,notCustomer
+2zqbWT7l11,Refresh,Basic Package,32,4,13.7563,100.5018,apartment,Songkhla,Sadao,,Bawornsak Roojinda,'0869577535,bavonsak_19805@hotmail.com,real,notCustomer
+JfxbVZ3mxt,M village,Basic Package,,1,,,noBussiness,Songkhla,Sadao,,ชวลิต คงคาระบือ,'0829170888,chawalitzax@gmail.com,unreal,notCustomer
+n4zFovuAbA,สดใส หอพัก,Basic Package,2,1,7.8953931553158956,98.404466475432685,underDevelop,Trang,Ratsada,Khlong Pang,เรืองสิทธิ์ โกวิทยาพันธุ์,'0628263966,ruengsit.k@hotmail.com,unreal,notCustomer
+nBqLPSQTRO,DM HOUSE ,Basic Package,1,1,7.0422903565327539,100.46861886978151,home,Songkhla,Hat Yai,Khlong Hae,มินฟะ หะมาหะมะ,'0808750584,,unreal,notCustomer
+EH0uHDAOmn,SSWP,Basic Package,34,3,7.6108247830689217,99.607047442644671,apartment,Trang,Mueang Trang,Khuan Pring,SSWP SSWP ,'0894656693,sutti28me@gmail.com,real,notCustomer
+UVT0yFVyQE,ห้างหุ้นส่วนจำกัด ทรัพย์สวัสดิ์เพลส (สำนักงานใหญ่),Basic Package,34,1,7.5084744,99.5434989,apartment,Trang,Mueang Trang,Khuan Pring,สุพัตรา ชูชาติ,'0805385038,susuchat317@gmail.com,real,notCustomer
+Blfzz768GG,KK,Basic Package,10,1,7.500706279574354,99.594347476959243,apartment,Trang,Mueang Trang,Khuan Pring,saowaluk kangyod,'0882252226,saowalukvi@hotmail.com,real,notCustomer
+CXegSGkXiI,หอพักซัลมา,Basic Package,24,2,7.5135135135135132,99.612020735268388,apartment,Trang,Mueang Trang,Khuan Pring,นภัสวรรณ แก้วหล่อ,'0645082843,kattyicycool@gmail.com,real,notCustomer
+Lj4ETneFrz,บ้านเพิงโฮมสเตย์,Basic Package,6,1,7.6129541158948051,100.10006911321105,hotel,Phatthalung,Mueang Phatthalung,Khuan Maphrao,ธัญญ์นลิน เรียนรวิศัย,'0803473803,nongkun005@gmail.com,real,notCustomer
+qGUcBcsyy6,ศรีวิชัย รีสอร์ท,Basic Package,40,3,7.579694671520584,100.14060784131289,hotel,Phatthalung,Mueang Phatthalung,Khuan Maphrao,ปวีณา ยาชะรัด,'0945788897,pawina.flora@gmail.com,real,notCustomer
+jsk9CiGNgT,ถาวรเฮ้าส์,Basic Package,58,1,7.0010172752084072,100.45217156410219,apartment,Songkhla,Hat Yai,Khuan Lang,ภากร ทองเปล่งศรี,'0655194992,diestupid00@gmail.com,real,notCustomer
+jcfZNOXT6n,เดอะกรีนฟอเรสท์ รีสอร์ท,Basic Package,22,2,6.9925545413475394,100.45962242790772,hotel,Songkhla,Hat Yai,Khuan Lang,Pitchaya Chongjit,'0832795883,s29417@hatyairat.ac.th,real,notCustomer
+zHfKlOAHje,flower house 1,Basic Package,5,2,6.9369917,100.458788,apartment,Songkhla,Hat Yai,Kho Hong,kantiyarat Jantapaso,'0936741378,kantiyaratjan@gmail.com,real,notCustomer
+YAeQZ5bMxg,SJ RESIDENCE,Basic Package,22,2,7.0016375698266184,100.49999535083771,hotel,Songkhla,Hat Yai,Kho Hong,ณัฐพล รณรงค์เสนีย์,'0999090299,yoasobi.intothenight@gmail.com,real,notCustomer
+ZaIJoYhEOH,Seoulmate House1,Basic Package,3,2,,,home,Songkhla,Hat Yai,Kho Hong, ,'0922992924,bunyakan2541@gmail.com,unreal,notCustomer
+1XtCDJqAOL,บ้านภูฟ้าใส,Basic Package,48,5,7.0293468999999993,100.4915171,apartment,Songkhla,Hat Yai,Kho Hong,ภูริชิตา สุคนธ์ปิตุมาต,'0655355363,purichita@gmail.com,real,notCustomer
+3QGghOrBIK,Bai Roi Soi9,Basic Package,38,4,7.0074644,100.4689889,undefined,Songkhla,Hat Yai,Kho Hong,สิรินดา เรืองสุริยกิจ,'0813687061,ruangsuriykij2543@gmail.com,real,notCustomer
+faICKG4iuW,"JK APARTMENT(ถนนปุณกัณซ์ ซ.2,ซ.4 บ้านทุ่งรี)",Basic Package,22,5,6.9997819059218305,100.49213714071098,apartment,Songkhla,Hat Yai,Kho Hong,จารุกิตติ์ สุนทโช,'0875704140,seen7144@gmail.com,real,notCustomer
+RxtAVdOjk9,บ้านสวนอพาร์ทเม้นท์ ตึกB,Basic Package,128,5,7.0293468999999993,100.4915171,serviceApartment,Songkhla,Hat Yai,Kho Hong,กัญญารัตน์ หนูทอง,'0803845835,,real,notCustomer
+5vl8akBogu,บ้านสวนอพาร์ทเม้นท์ ตึกA,Basic Package,65,3,7.0293468999999993,100.4915171,serviceApartment,Songkhla,Hat Yai,Kho Hong,กัญญารัตน์ หนูทอง,'0803845835,,real,notCustomer
+QDY26tojQ0,แม่เฒ่าพ่อเฒ่า,Basic Package,11,6,7.0293468999999993,100.4915171,serviceApartment,Songkhla,Hat Yai,Kho Hong,ปวิตรา ไชยประภา,'0954652456,pawitrachaiprapha@gmail.com,real,notCustomer
+Edv9MF3nrY,ภัคภัส,Basic Package,,1,,,underDevelop,Phatthalung,Mueang Phatthalung,Khuha Sawan,ภัคภัสสร พัฒนาศรีรัตน์,'0850773678,sriras16@gmail.com,unreal,notCustomer
+VAXKTQBUXW,J&M,Basic Package,9,1,7.6209574,100.0857001,apartment,Phatthalung,Mueang Phatthalung,Khuha Sawan,เกศินี หลเมฆ,'0936740113,oengnuk1759@gmail.com,real,notCustomer
+C3S0Hqut5T,บ้านเช่า  ยายสวน,Basic Package,,1,7.6156105526006943,100.08654558911041,home,Phatthalung,Mueang Phatthalung,Khuha Sawan,Sakkarin Jansuksri,'0810952037,svccbxxcwm@privaterelay.appleid.com,real,notCustomer
+RAoGV6gyDb,Lenoiburi,Basic Package,8,2,13.7563,100.5018,hotel,Phatthalung,Khuan Khanun,Thale Noi,บัญฑิตา ประเสริฐ,'0926796047,bantita2143@gmail.com,unreal,notCustomer
+tNuKPLI1AN,เพลินพิทักษ์ แมนชั่น,Basic Package,51,7,7.5649279266423459,99.6179160475731,apartment,Trang,Mueang Trang,Thap Thiang,Deleted User,',,real,notCustomer
+gnlLVWQafy,Catboss,Basic Package,,6,7.5448930182637381,99.597622290445841,hotel,Trang,Mueang Trang,Thap Thiang,ชินวัตร์ จันทร์สถาพร,'0966350228,treetime2000@gmail.com,unreal,notCustomer
+obF8a8w50Q,"บริษัทบ้านเพิ่มทรัพย์ จำกัด Baanpermsap , co Ltd",Basic Package,1,8,7.5541766789182629,99.598770389674385,apartment,Trang,Mueang Trang,Thap Thiang,วันดี จริงจิตร,'0841929299,wandeejj1313@gmail.com,real,notCustomer
+qF50WRApoR,family home,Basic Package,1,1,7.5855855855855854,99.610451533872975,apartment,Trang,Mueang Trang,Thap Thiang,เปรมฤดี แสงดำ,'0910682132,pramrudee7432@gmail.com,real,notCustomer
+J3uhS49oRt,บ้านเช่า 31/27 ถ.วัดนิโครธ,Basic Package,4,1,7.5745066,99.6127027,home,Trang,Mueang Trang,Thap Thiang,วรุตม์ สุวิชาวรานนท์,'0876661223,warut.su@hotmail.com,real,notCustomer
+WruQ2mihcO,Catboss,Basic Package,6,3,7.5448519232439333,99.59772043015478,hotel,Trang,Mueang Trang,Thap Thiang,ชินวัตร์ จันทร์สถาพร,'0966350228,treetime2000@gmail.com,unreal,notCustomer
+wbI6E0uWM0,บ้านสวนพฤกษารีสอร์ท,Basic Package,21,1,7.5966012499999991,100.0624145,hotel,Phatthalung,Mueang Phatthalung,Tha Miram,นภัส นาคปก,'0945971177,musicss089@gmail.com,unreal,notCustomer
+Y3pFaKu6ce,pw,Basic Package,6,3,7.58321520467091,99.6036332845688,apartment,Trang,Mueang Trang,Na Ta Luang,พีรวิชญ์ ขุนทอง,'0622132501,peerawit0805@gmail.com,real,notCustomer
+Oh2h0k6SHs,AP HOME,Basic Package,8,1,6.9554643072331883,100.5566167831421,apartment,Songkhla,Na Mom,Na Mom,ปรียาภรณ์ บรรสาร,'0880146852,preeyaphorn6852@gmail.com,real,notCustomer
+kBgXFEJCeo,fifty-three,Basic Package,5,1,7.0074644,100.4689889,apartment,Songkhla,Hat Yai,Nam Noi,ลภัสรดา ไพบูลย์สมบัติ,'0611479269,Laphatrada901@icloud.com,real,notCustomer
+10Tqc7LG3U,เพ็ญวาส พูลวิลล่า,Basic Package,1,1,7.112589,100.5277454,other,Songkhla,Hat Yai,Nam Noi,หทัยชนก ประทุม,'0916966988,hatichanok1816@gmail.com,unreal,notCustomer
+vKbB6DDuws,PhuwanaPoolvilla,Basic Package,3,1,6.94475372890225,100.428543372804,serviceApartment,Songkhla,Hat Yai,Nam Noi,นพดล หมัดหลี,'0906569993,,real,notCustomer
+KcWDnxWzq8,บ้านเช่า จือปอ,Basic Package,3,1,6.4145906527458,101.82923525535445,underDevelop,Narathiwat,Mueang Narathiwat,Bang Nak,นูรดีน วันมูฮำหมัด,'0843419434,jenifer0073@gmail.com,unreal,notCustomer
+kdhYOkFMlu,Paksina,Basic Package,48,4,6.3210758,101.5972971,undefined,Narathiwat,Mueang Narathiwat,Bang Nak,Chonnipha Surachad,'0805985455,Chonnipha37@hotmail.com,real,notCustomer
+HSUoBbbc4C,หอพักรายเดือน MOOD Disign,Basic Package,10,2,6.3210758,101.5972971,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,มูฮำหมัดตัรมีซี อูมา,'0969095704,azmee3151idris@gmail.com,real,notCustomer
+HYozJLEJMx,Paksina2,Basic Package,4,1,6.424468,101.8150573,hotel,Narathiwat,Mueang Narathiwat,Bang Nak,จิตราพันธุ์ ถาวโรฤทธิ์,'0862875050,tim_double_t@hotmail.com,real,notCustomer
+U48IQHiwSA,Paksina1,Basic Package,21,2,6.424468,101.8150573,hotel,Narathiwat,Mueang Narathiwat,Bang Nak,จิตราพันธุ์ ถาวโรฤทธิ์,'0862875050,tim_double_t@hotmail.com,real,notCustomer
+nYOD1HXRGv,Lalita,Basic Package,36,50,6.424468,101.8150573,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,lalita prukluk,'0835442456,noopunpun19@gmail.com,real,notCustomer
+U7i9I14KbI,พฤกษาเฮ้าส์ นราธิวาส,Basic Package,42,12,6.4347535755835024,101.82190034185636,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,พฤกษาเฮ้าส์ นราธิวาส,'0815999714,pruksahousenara@gmail.com,real,notCustomer
+1UwU0PMS0w,fredee,Basic Package,,10,6.424468,101.8150573,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,สุชินันต์ พฤกษ์พัฒนรักษ์,'0628965324,suchinant@hotmail.com,unreal,notCustomer
+KD0oGIAY3A,demo,Basic Package,20,4,7.4109021,99.5145938,underDevelop,Trang,Kantang,Bang Mak,ฟหก ฟหก,'0886584669,lanuchal.lkaol@gmail.com,unreal,notCustomer
+sjgm4pTWcH,เพชรมณี อพาร์ทเม้นต์,Basic Package,44,1,7.19764489004003,100.59603452682497,apartment,Songkhla,Mueang Songkhla,Bo Yang,พศวีร์ เพ็ชรพันธ์,'0654196141,petch.podsawee@gmail.com,real,notCustomer
+GKUYbLY4Gm,หอพัก @ตัวกลม@,Basic Package,6,1,7.1930209389552422,100.60153976082802,apartment,Songkhla,Mueang Songkhla,Bo Yang,นภัตตนันท์ สุวรรณรัตน์,'0875686150,napatthanan.s@gmail.com,real,notCustomer
+33dc2YbIjP,ทีที.เจ อพาร์ทเม้นท์,Basic Package,23,5,7.1922309242279443,100.59833049774171,apartment,Songkhla,Mueang Songkhla,Bo Yang,วรวุฒิ สร้อยสุวรรณ,'0855142359,gotum2538@outlook.co.th,real,notCustomer
+Y94EQB5vIr,Start Room,Basic Package,16,3,7.182403567502198,100.60521839487924,apartment,Songkhla,Mueang Songkhla,Bo Yang,Start Room หอพักสงขลา,'0869600621,roomsart2@gmail.com,real,notCustomer
+KrTpyPKbOW,PK Court,Basic Package,95,7,7.2065123817365553,100.59152587768448,apartment,Songkhla,Mueang Songkhla,Bo Yang,โสมรัศมิ์ จันทรัตน์,'0842062660,,real,notCustomer
+ErcUT2AC2B,ดวงธิดา,Basic Package,30,6,6.8790221,100.5498542,apartment,Songkhla,Mueang Songkhla,Bo Yang,ชัชชัย สุวัฒนกุลวงศ์,'0835454535,arawanhui2@gmail.com,real,notCustomer
+nrKp9rNw2o,หอพักศิริรักษ์,Basic Package,6,4,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,สุนันต์ทา ตั้งศิริรักษ์สกุล,'0935847570,sunantha150911@gmail.com,real,notCustomer
+ZvogmKNNG7,ดีไซน์ รีสอร์ท,Basic Package,18,4,7.8012813486664179,99.922728700574524,serviceApartment,Phatthalung,Pa Phayom,Ban Phrao,นางสาวจิราวดี ชุมทองมา,'0933485296,meanmeanch@gmail.com,real,notCustomer
+WZVWZ29mj6,โฮมสเตย์บารอกัต,Basic Package,,1,,,hotel,Pattani,Panare,Panare,ตัลมีซีย์ สาอุ,'0631021493,tamizeesau92@gmail.com,real,notCustomer
+4qg1A9raqX,ภูผายอด รีสอร์ท,Basic Package,45,1,7.7305486000000014,99.6230001,hotel,Trang,Huai Yot,Pak Khom,phuphayot Resort,'0830807541,phuphayot.resort@gmail.com,real,notCustomer
+pS7HgQkScG,Lenoi buri,Basic Package,11,2,13.7563,100.5018,hotel,Phatthalung,Khuan Khanun,Phanang Tung,บัญฑิตา ประเสริฐ,'0926796047,bantita2143@gmail.com,real,notCustomer
+zgokkCnjbc,พลอยรุ่ง  รีสอร์ท,Basic Package,4,1,6.86387,100.46629,apartment,Songkhla,Hat Yai,Phatong,Chonlada D.,'0901601833,,real,notCustomer
+K5mB7h4Ay5,แสนสุข,Basic Package,3,1,,,apartment,Songkhla,Mueang Songkhla,Phawong,duangdee permploysiri,'0875645144,duangdeeromkaew@gmail.com,real,notCustomer
+DBK6mHcfJ0,แสนสุขอพาร์ตเมนต์,Basic Package,30,3,7.1150204180619472,100.57351469993593,noBussiness,Songkhla,Mueang Songkhla,Phawong,นันธิญา มีปาน,'0823976683,sansook.songkhla@gmail.com,unreal,notCustomer
+7Q7HSGXB5Q,ทีเคอพาร์ทเม้นท์,Basic Package,86,7,7.0876353593984716,100.58421116406251,serviceApartment,Songkhla,Mueang Songkhla,Phawong,ทีเค อพาร์ทเมนท์,'0969406025,thanawan3470@icloud.com,real,notCustomer
+mr7tfuvyuA,ไชยา(ชาย),Basic Package,72,2,6.3295062,101.6271544,apartment,Narathiwat,Ra-ngae,Maruebo Tok,นัจมี สาและ,'0822411524,,real,notCustomer
+R2VYZd3g3f,ไลชา,Basic Package,6,2,6.5411018,101.2804075,apartment,Yala,Mueang Yala,Yala,ภัทรณิชา สุภัทรชัยวงค์,'0974646249,supattachaiwong@gmail.com,real,notCustomer
+VMHeG6Kasp,หอพักนักศึกษา หอพัก 9,Basic Package,225,9,,,university,Pattani,Mueang Pattani,Ru Samilae,ธีรพร พลนารุด,'0950250858,theeraporn.p@psu.ac.th,unreal,notCustomer
+sbHnnP7SSy,หอพักนักศึกษา หอพัก 9,Basic Package,225,9,6.8787260189509079,101.24004900455476,university,Pattani,Mueang Pattani,Ru Samilae,อัลนุฮมาน  ซีนา,'0925248497,mann_22543@gmail.com,unreal,notCustomer
+nc1IydtUdx,11,Basic Package,10,2,13.7674867,100.5488001,noBussiness,Trang,Kantang,Wang Won,ชล นิ่ม,'0980829295,,unreal,notCustomer
+RywQCqJbAn,อพาร์ทเม้นท์  ท่าเสา,Basic Package,10,3,7.2072072072072073,100.56029994997303,apartment,Songkhla,Singhanakhon,Sathing Mo,ชลันธร โชติพฤกษ์,'0992310834,biwchalanthon17@gmail.com,real,notCustomer
+3E9zfgB8IJ,ดีอามาน โฮเต็ล แอนด์ รีสอร์ท,Basic Package,69,5,6.833404047229374,100.94140149206541,hotel,Songkhla,Thepha,Sakom,Sakeenah Yusoh,'0918459475,sakeensim@gmail.com,real,notCustomer
+L8CU4m7XzG,GRANDMOM HOME,Basic Package,8,2,6.6364833,100.4238366,apartment,Songkhla,Sadao,Sadao,นายสุรวิชช์ เจริญกุล,'0824815821,surawit26@gmail.com,real,notCustomer
+UrKDmegEOp,รายวัน,Basic Package,13,1,13.7563,100.5018,hotel,Yala,Mueang Yala,Sateng,บุญหนัก อพาร์ทเม้นท์2,'0984785333,,unreal,notCustomer
+qckeUtQD5J,บ้านพัก​วิทยาลัย​เทคนิค​ยะลา,Basic Package,74,5,6.5517167341354829,101.28929603844881,apartment,Yala,Mueang Yala,Sateng,วิทยาลัย​เทคนิค​ยะลา​ ยะลา,'0887896787,ytc2563@gmail.com,real,notCustomer
+RfJSHuZ6vc,บ้ารเช่าซอยภูมิณรงค์,Basic Package,20,1,6.5536039988398489,101.2817144393921,home,Yala,Mueang Yala,Sateng,Warinthorn Noobom,'0630808761,lolich4560@gmail.com,real,notCustomer
+gS5e73yqLJ,หอพักเตรียมU,Basic Package,8,1,6.5420465,101.2812178,serviceAp,Yala,Mueang Yala,Sateng,ศรายุทธ สาเฮาะ,'0936257623,sahohsarayuth@gmail.com,real,notCustomer
+fTZ6n4rcOA,หอพักนารีแมนชั่น,Professional Package (Trial),2,1,6.5568389124788258,101.29051208496095,apartment,Yala,Mueang Yala,Sateng,มารีแย ดือเระ,'0848614107,mariyae.office2025@gmail.com,real,notCustomer
+gsOY976ePI,สมาร์ทอพาร์ตเม้นต์,Basic Package,45,5,6.553539735134235,101.28547560370484,underDevelop,Yala,Mueang Yala,Sateng,Pakdee Jaijong,'0816785678,smartsolaryl@gmail.com,unreal,notCustomer
+PFTMmGR09j,Sammee Apartment,Basic Package,28,4,6.5388361118774769,101.2961437799202,underDevelop,Yala,Mueang Yala,Sateng,อามีนา สะมาแอ,'0954404530,rmin.trust@gmail.com,unreal,notCustomer
+9dFef1IwP5,บ้านพักครู,Basic Package,81,2,6.5518595190067,101.28745235454547,apartment,Yala,Mueang Yala,Sateng,วิทยาลัยเทคนิค ยะลา,'0882620689,,real,notCustomer
+bs8wH1WqYB,บ้านพักวท.ยะลา,Basic Package,100,10,6.5447995,101.2853254,apartment,Yala,Mueang Yala,Sateng,วิทยาลัย​เทคนิค​ยะลา​ ยะลา,'0887896787,ytc2563@gmail.com,real,notCustomer
+NpJrAJcNk2,แฟรต4ชั้นวิทยาลัยเทคนิคยะลา,Basic Package,14,4,6.5447995,101.2853254,apartment,Yala,Mueang Yala,Sateng,วิทยาลัย​เทคนิค​ยะลา​ ยะลา,'0887896787,ytc2563@gmail.com,real,notCustomer
+RvpAaagKqn,บ้านจันทร์กะพ้อ,Basic Package,,10,6.5500111481163756,101.29144016443988,apartment,Yala,Mueang Yala,Sateng,เอกลักษณ์ เอกตาแสง,'0969410051,ningchai222@gmail.com,real,notCustomer
+6ruQurhSiW,ชมพู,Basic Package,1,1,13.7563,100.5018,apartment,Yala,Mueang Yala,Sateng Nok,Yu D.,'0950879405,,real,notCustomer
+XGAUHCZXC7,สมหวัง อพาร์ทเม้นท์,Basic Package,48,4,6.5567245,101.2902517,apartment,Yala,Mueang Yala,Sateng Nok,พลอย พลอย,'0616359469,zxccom138@gmail.com,real,notCustomer
+jEwNGuzOuJ,บ้านเช่ามามา,Basic Package,40,6,13.7563,100.5018,apartment,Yala,Mueang Yala,Sateng Nok,นาเดีย พร้อมมูล,'0869610444,nadia.samang@gmail.com,real,notCustomer
+QGgfAtHJBQ,M Village,Basic Package,,1,6.6364252,100.4213368,noBussiness,Songkhla,Sadao,Samnak Kham,อามาน แวหะมะ,'0895615411,aman.vhm@gmail.com,unreal,notCustomer
+BapjKbHylv,สยามแมนชั่น & MJ อพาร์ทเม้นท์,Basic Package,87,7,6.5255913467011446,100.41991666750705,serviceAp,Songkhla,Sadao,Samnak Kham,พัทรนุช สุขกลัด,'0873907599,,real,notCustomer
+j0lGgoS25v,ZENITH,Basic Package,101,1,6.6364252,100.4213368,unReachable,Songkhla,Sadao,Samnak Kham,กฤศรดา ศรประสิทธิ์,'0818967605,k.wanida30@gmail.com,real,notCustomer
+jbwOqQWpnQ,M village,Basic Package,72,7,6.6364252,100.4213368,noBussiness,Songkhla,Sadao,Samnak Kham,ชวลิต คงคาระบือ,'0829170888,chawalitzax@gmail.com,unreal,notCustomer
+z6C4VE2u57,R,Basic Package,33,4,6.0151191,101.951925,hotel,Narathiwat,Su-ngai Kolok,Su-ngai Kolok,Na Nasueroh,'0993806680,nalove3_love@hotmail.com,unreal,notCustomer
+RDYhW2hOta,J.C. Place,Basic Package,18,3,6.4254607347834423,101.8253143876791,apartment,Narathiwat,Su-ngai Kolok,Su-ngai Kolok,พัชรพร สุริยะ,'0824335848,patcharaporn.sur008@gmail.com,real,notCustomer
+8ykc6VnBU1,ดาวลูกไก่,Basic Package,10,4,6.0259786,101.9648719,serviceApartment,Narathiwat,Su-ngai Kolok,Su-ngai Kolok,นางสาว กชนิภา เวียงวีระชัย,'0980472959,kotcha268@gmail.com,real,notCustomer
+li8cGzOXfB,แมงปอแมนชั่น,Basic Package,10,5,13.721606396903951,100.56003835572079,apartment,Songkhla,Hat Yai,Hat Yai,สุรศักดิ์ อิสโร,'0819579256,mangpor224@gmail.com,real,notCustomer
+1QtFeNTjAc,Now your New home,Basic Package,12,4,7.0163966112091085,100.49227863550188,apartment,Songkhla,Hat Yai,Hat Yai,กรวีร์ เจริญวิริยะภาพ,'0945937566,lavender.ntf@gmail.com,real,notCustomer
+ySG1Z6DhD9,JanJao,Basic Package,44,5,,,underDevelop,Songkhla,Hat Yai,Hat Yai,Boonta Wattanaurai,'0815999738,janeniwattanaurai@gmail.com,unreal,notCustomer
+s0mFilKMAb,หออุ่นใจ,Basic Package,12,4,7.0086472,100.4746879,serviceApartment,Songkhla,Hat Yai,Hat Yai,Tear Borkies,'0897304695,howl8695@gmail.com,real,notCustomer
+ChRazSfBby,กิตติคอร์ท,Basic Package,33,4,7.0192228896533164,100.49127054220664,apartment,Songkhla,Hat Yai,Hat Yai,สันติ แก้วกิติพงษ์,'0618295492,samti.842@gmail.com,real,notCustomer
+qHNvFvPD0c,Pround,Basic Package,5,1,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,KitCat KitCat,'0622425144,nong_maew2525@hotmail.com,real,notCustomer
+gz09LoTBJR,ห้องพักหาดใหญ่-เพชรแมนชั่น,Basic Package,38,4,6.9977480693467893,100.48306524753572,undefined,Songkhla,Hat Yai,Hat Yai,เพชร แมนชั่น,'0994793658,petchmansionhatyai@gmail.com,real,notCustomer
+m6SBh0d3cT,ไม่มี,Basic Package,9,3,7.0074644,100.4689889,apartment,Songkhla,Hat Yai,Hat Yai,พรพณา ขวัญทอง,'0986712155,pornpana2155@gmail.com,real,notCustomer
+THFnCxwOUD,ภัสธิตา,Basic Package,50,5,,,apartment,Songkhla,Hat Yai,Hat Yai,Bird Srinitiwarawong,'0625593559,waterman2047@hotmail.com,unreal,notCustomer
+f2gO60W9hO,แมงปอแมนชั่น,Basic Package,10,5,7.0731460123561014,100.47583680630204,apartment,Songkhla,Hat Yai,Hat Yai,จุฑารัตน์ อิสโร,'0612531430,49235@hatyaiwit.ac.th,real,notCustomer
+IYa5tyz3pV,เวล เวลเนส,Basic Package,81,4,7.0074644,100.4689889,apartment,Songkhla,Hat Yai,Hat Yai,บริษัท เวล เวลเนส เซอร์วิส จำกัด,'0618981221,acc.whelawellness@gmail.com,real,notCustomer
+pPEEvzA3AD,yelo 2,Basic Package,21,3,,,apartment,Songkhla,Hat Yai,Hat Yai,kwan maithree,'0905456356,maithree_pr@hotmail.com,real,notCustomer
+WYiZ7ilmhS,ซี.เค.เฮ้าส์,Basic Package,31,5,7.0005171389312775,100.49169333195164,apartment,Songkhla,Hat Yai,Hat Yai,ณัฐวิทย์ ภัทรนราสิน,'0818167798,,real,notCustomer
+8jp6b7qVmw,Relieve,Basic Package,13,2,7.0086472,100.4746879,market,Songkhla,Hat Yai,Hat Yai,ศศิพงษ์ โรหิโตปการ,'0815997269,p_rohito@yahoo.com,real,notCustomer
+V2ptUQoMBq,ศรีลดา,Basic Package,40,4,7.0074644,100.4689889,apartment,Songkhla,Hat Yai,Hat Yai,ธนกฤต เกตุนวล,'0637801948,Thanakrit4422chanel@gmail.com,real,notCustomer
+ix3AgJrLFb,มาลีเฮาส์,Professional Package (Trial),4,1,7.0074644,100.4689889,home,Songkhla,Hat Yai,Hat Yai,หวันสฤษดิ์ หมัดอะหิน,'0645366619,wansarit0802@gmail.com,real,notCustomer
+4PpDFvylbz,ชนิสรา ทับแสนสิริ,Basic Package,10,1,7.0074644,100.4689889,hotel,Songkhla,Hat Yai,Hat Yai,ชนิสรา ทับแซนสิริ,'0814529799,chanissara1554@gmail.com,unreal,notCustomer
+Rx4nmlGpPT,test,Basic Package,1,1,7.0074644,100.4689889,hotel,Songkhla,Hat Yai,Hat Yai,thanatcha chuayphet,'0937303855,,unreal,notCustomer
+JyXvqUBON3,Anya's House หอพักหญิงใกล้ ญ.ว.,Basic Package,,1,7.01889241811043,100.47456384845063,underDevelop,Songkhla,Hat Yai,Hat Yai,วาสนา ไทยสุริยันต์,'0844075454,wtawan2532@gmail.com,unreal,notCustomer
+1E9pZ2Abnp,Anya's House,Basic Package,11,2,7.0074644,100.4689889,undefined,Songkhla,Hat Yai,Hat Yai,กฎหมาย ไทยสุริยันต์,'0855551999,k.thaisuriyan@gmail.cpm,real,notCustomer
+s78C2OQIBG,ชื่นสุขอพาร์ทเมนท์,Basic Package,27,4,6.9926590954968635,100.46785484560019,apartment,Songkhla,Hat Yai,Hat Yai,กันตินันท์ แก้วหนู,'0626465698,kantinan.k36@gmail.com,real,notCustomer
+UCJ8uLdsEk,หอพักโรงพยาบาลหาดใหญ่,Basic Package,80,8,6.9913401,100.4841656,university,Songkhla,Hat Yai,Hat Yai,นายนนท์ปวิธ คงประดิษฐ์,'0954400845,oamcath@gmail.com,real,notCustomer
+ClJdLcMRkL,บ้านเช่าหลังแรก,Basic Package,1,1,7.525477891885501,99.57315769046545,apartment,Pattani,Mueang Pattani,Ano Ru,อมารีนา เจะมะ,'0800577046,Amareena1012@gmail.com,real,notCustomer
+1ONwjEkO86,บ้านคุณลุง,Basic Package,,1,,,underDevelop,Pattani,Mueang Pattani,Ano Ru,ประพิมพร นิธิอุทัย,'0816214299,prapimporn.nithiuthai@gmail.com,unreal,notCustomer
+fnpFKQpGMG,ดารุลอีมาน,Basic Package,16,1,6.7613815,101.29418,apartment,Pattani,Yarang,Khao Tum,บิสมี ลีวาเมาะ,'0937259281,Bismiliwamoh@yahoo.com,real,notCustomer
+lV7hY3KMPJ,ชูแสงอพาร์ทเมน,Basic Package,37,5,7.1570670312760267,100.60197021754345,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ชนิกานต์ ธนพิทักษ์,'0834053511,chanikarn121044@icloud.com,real,notCustomer
+Isc3Zjpv8d,KM House,Basic Package,26,3,7.17827849244445,100.59880310912354,serviceApartment,Songkhla,Mueang Songkhla,Khao Rup Chang,km House,'0925254261,,real,notCustomer
+XJLqWVX7HR,สงขลาพาเลซ,Basic Package,40,5,7.2435997738972606,100.55214413026935,hotel,Songkhla,Mueang Songkhla,Khao Rup Chang,กุลธัช เหลืองธีรนาท,'0819299325,dudesweet_1@hotmail.com,real,notCustomer
+VT2vmVslQU,PP Mansion,Basic Package,4,1,7.162776,100.6071234,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,พรรณพัสสา สุขัง,'0986462984,Phunpussa123@gmail.com,unreal,notCustomer
+daZKhx9WRR,หมู่บ้านผู้การ ,Basic Package,29,1,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ภรอิชณน์ สุขกระจ่าง,'0887913809,kof.phornit@gmail.com,real,notCustomer
+UuV1yxRh81,Bluebird Songkhla Residence ,Basic Package,54,7,7.1561298803575095,100.60159883544573,serviceApartment,Songkhla,Mueang Songkhla,Khao Rup Chang,วรณัน  เม่งช่วย,'0656969193,,real,notCustomer
+Z6YpeP3lRY,หอพักหญิงคุณโปรด,Basic Package,8,3,7.1750632008555213,100.6132232719398,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,พศวัต วรจินต์,'0931594992,,real,notCustomer
+VbdQCdUlKz,หอพักรักดี,Basic Package,8,4,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ฐนพร รักดี,'0993202162,,real,notCustomer
+p8bRrU0HaO,เอ็น เอส โคลด์ สโตเรจ จำกัด,Basic Package,79,3,7.1973429,100.593205,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Thawatchai Yeamthassana,'0918715391,thawatchai.y@horganice.in.th,real,notCustomer
+12rQuf9wy3,@u2,Basic Package,33,5,7.162670413909102,100.60487990602645,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ภิรายุ เดชรุ่งเรือง เดชรุ่งเรือง,'0628303555,pdetrungruang@gmail.com,real,notCustomer
+flDPXjHqAw,เอส.ที.อพาร์ทเม้นท์ สงขลา,Basic Package,103,5,7.162776,100.6071234,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,รัชกฤต คชชาสุวรรณ,'0867892642,nrtk168@gmail.com,real,notCustomer
+0EIpvVwZPf,ลิณีวาลีโฮม,Basic Package,32,4,7.1973429,100.593205,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,เอกศักดิ์ เทพยา,'0656295615,whaleresidence.th@gmail.com,real,notCustomer
+u4SCmOeVRj,ลาลีรีสอร์ท,Basic Package,20,1,6.8332123,100.941144,hotel,Songkhla,Thepha,Thepha,สมชาย สาลา,'0611365058,,real,notCustomer
+ChZ1vt426y,CozyHome@Betong,Basic Package,,1,,,hotel,Yala,Betong,Betong,hathaichanok rattanarin,'0629395662,rattanarin.h@gmail.com,real,notCustomer
+tdzIh7kIkC,Hlangkha Hostel,Basic Package,16,3,5.7799850999999993,101.0372376,hotel,Yala,Betong,Betong,ณฐมน สุภาพ,'0622496235,workingon31@gmail.com,real,notCustomer
+CdEYEIh0fT,เลิศชัย,Basic Package,18,2,7.540533516904012,99.6177900613159,apartment,Trang,Mueang Trang,Khok Lo,ธัญพิสิฐ ยงสถิตศักดิ์,'0869488893,sklanarong@hotmail.com,real,notCustomer
+vKqeJRFO2D,นายหัวสมจิต88,Basic Package,212,2,7.5672120361210435,99.598607667724821,apartment,Trang,Mueang Trang,Khok Lo,สุวรรณี สุจริตชีววงศ์,'0990323333,suwannee2511@gmail.com,real,notCustomer
+5L6C4hyV3c,มาริษาอพาร์ทเมนท์,Basic Package,10,2,6.4493651007933348,101.80837364991586,home,Narathiwat,Mueang Narathiwat,Khok Khian,เทอดธิไกร ไชยมาตร,'0646459692,jeckleaw555@gmail.com,unreal,notCustomer
+Hchbu3XXwc,Minims House,Basic Package,6,4,6.9999895690464511,100.50641744162998,apartment,Songkhla,Hat Yai,Kho Hong,ปรียานุช อังศุภานิช,'0832892493,pree.angsupanich@gmail.com,real,notCustomer
+2iPMUBLeqU,ณัฐชา แมนชั่น,Basic Package,88,8,7.0086472,100.4746879,serviceApartment,Songkhla,Hat Yai,Hat Yai,natthawat tangtrakulwanich,'0887848535,,real,notCustomer
+BHiZIMzBRh,อาคารหอพักนักกีฬา 2 โรงเรียนนาทวีวิทยาคม,Basic Package,22,1,6.7475693702098534,100.66009290999759,hotel,Songkhla,Na Thawi,Khlong Sai,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+bRRsDeUq1e,อาคารอัฒจรรย์สนามกีฬาภูริวิจิตร,Basic Package,14,1,6.944980948565064,100.57192038428649,hotel,Songkhla,Na Mom,Khlong Rhang,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+sCTDXTEPLv,บ้านพักหงษ์ทอง,Basic Package,17,1,6.8943233791438461,100.37701237946749,apartment,Songkhla,Khlong Hoi Khong,Khlong Hoi Khong,สิทธิพร พฤกษวานิช,'0973453917,newentr17@gmail.com,real,notCustomer
+v8Cxhjxdnu,สนามกีฬาอำเภอคลองหอยโข่ง,Basic Package,30,1,6.8999500447151343,100.38821220805667,hotel,Songkhla,Khlong Hoi Khong,Khlong Hoi Khong,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+dFSVhx8i30,สหแมนชั่น,Basic Package,21,3,7.1880852370473347,100.59360310435295,serviceApartment,Songkhla,Hat Yai,Kho Hong,นพรัตน์ แซ่ลิ้ง,'0958979271,nopparat53031@gmail.com,unreal,notCustomer
+opmcrxEUec,รุ่งวิวาห์ แมนชั่น,Basic Package,3,1,,,apartment,Songkhla,Hat Yai,Kho Hong,Suta Rinee,'0968968536,sutarinee81@gmail.com,real,notCustomer
+wXLCCOFnEQ,อรัญดร,Basic Package,10,1,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Kho Hong,ดรุณวรรณ อรัญดร,'0862880492,darunvan@hotmail.com,real,notCustomer
+h2v0MVQ9nf,หอพักบินหลา 4,Basic Package,336,16,,,apartment,Songkhla,Hat Yai,Kho Hong,นันทพร อนุราษฎร์,'0892949714,,real,notCustomer
+O4WbN4MRe7,คุณจบ,Basic Package,8,1,,,apartment,Songkhla,Hat Yai,Kho Hong,สิริพัชร เพชรประสิทธิ์,'0836513271,,real,notCustomer
+vvDscesAoa,หจก.หาดใหญ่บ้านสวน,Basic Package,,1,,,apartment,Songkhla,Hat Yai,Kho Hong,วนัสสดา มีลาภ,'0815999901,Wanas7199@gmail.com,real,notCustomer
+2NxQnjD3dB,บ้านอิ๋ว,Basic Package,4,1,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Kho Hong,นายดุลยทรรศน์ คานิยอ,'0883910229,,real,notCustomer
+mBNABIn6rN,ใบตองอพาร์ทเม้น,Basic Package,16,3,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Kho Hong,พัชรินทร์ ไชยบุตร,'0950945511,patcharin.baitong@gmail.com,real,notCustomer
+bXMFCCnC7W,โรงแรมพิ้งเลดี้,Basic Package,20,1,7.4707650837535375,100.4128978857666,hotel,Songkhla,Sathing Phra,Khu Khut,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+xWVBPSUyXR,สำนักงานระบบปรับปรุงคุณภาพน้ำ,Basic Package,62,1,7.1127033048920723,100.49599528641357,hotel,Songkhla,Hat Yai,Khu Tao,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+93e2ie9lcG,มทร.ศรีวิชัย วิทยาเขตรัตภูมิ,Basic Package,40,1,7.0871723952869488,100.24566858196413,hotel,Songkhla,Rattaphum,Tha Chamuang,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+pIpJMr7Vqb,ศูนย์ฟื้นฟูสมรรถภาพจินดาภรณ์,Basic Package,20,1,6.7737448893932442,100.76158992923585,hotel,Songkhla,Chana,Tha Mo Sai,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+pq3FAXEUqb,ศูนย์ส่งเสริมเทคโนโลยีการเกษตรด้านอารักขาพืช จังหวัดสงขลา,Basic Package,30,1,7.1082324921151878,100.42006474825439,hotel,Songkhla,Bang Klam,Bang Klam,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+yjpAfZsmYy,โรงเรียนบ้านเกาะน้ำรอบ,Basic Package,30,1,7.1351405172668478,100.42854011145018,hotel,Songkhla,Khuan Niang,Bang Rieang,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+8JtfFQ1LvU,Lee Mansion,Basic Package,60,5,,,serviceAp,Songkhla,Mueang Songkhla,Bo Yang,ศวัตร โตวิวัฒน์,'0881899899,,real,notCustomer
+6FSyvWYbiw,บ้านอ้อมรัก,Basic Package,24,4,7.19370247777246,100.59896096487347,apartment,Songkhla,Mueang Songkhla,Bo Yang,Tib Suthakan,'0888787955,fuwinishi@gmail.com,real,notCustomer
+dQFxApDpes,ศูนย์พัฒนาคุณภาพชีวิตผู้สูงอายุเทศบาลนครสงขลา (สวนเสรี),Basic Package,20,1,7.2128752686796247,100.59495642681424,hotel,Songkhla,Mueang Songkhla,Bo Yang,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+KZ7rbHJQ5d,ศูนย์พัฒนาเด็กเล็กเทศบาลตำบลจะนะ (โรงเรียนอนุบาลเมืองจะนะ),Basic Package,30,1,6.9008860491086885,100.77201707672121,hotel,Songkhla,Chana,Ban Na,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+wwAxWyf799,สนามกีฬาเมืองหลังภาคใต้ (พรุค้างคาว),Basic Package,60,1,6.9195678274367154,100.45753882371217,hotel,Songkhla,Hat Yai,Ban Phru,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+CO69jI1YlV,ปันรักโฮม,Basic Package,13,1,7.1897657368047376,100.59538140892982,apartment,Songkhla,Sadao,Prik,ผุสดี หมัดอาดำ,'0848595928,phuss_ab@hotmail.com,real,notCustomer
+NmCijOnn35,รุ่งไพลิน รีสอร์ท,Basic Package,10,1,6.861395,100.539386,serviceAp,Songkhla,Hat Yai,Phatong,nattavut manopuk,'0901601834,,real,notCustomer
+4EpHsfQ5u6,โรงเรียนวัดใหญ่,Basic Package,35,1,7.713176954870903,100.37437208215334,hotel,Songkhla,Ranot,Phang Yang,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+Pcz5HQZnJJ,baitulmuslim,Basic Package,6,2,6.7699758,101.2951403,apartment,Pattani,Yarang,Yarang,abubak awaeni,'0913126525,abubakawaeni@gmail.com,real,notCustomer
+lJwHgaaTRz,อาคารเก่าเทศบาลเมืองสิงหนคร,Basic Package,29,1,7.2386850724732508,100.55056106779787,hotel,Songkhla,Singhanakhon,Sathing Mo,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+hufIqGVz2D,ดีอามานรีสอร์ท,Basic Package,95,1,6.9601917963639517,100.84655891534423,hotel,Songkhla,Thepha,Sakom,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+J79YFMsF7j,อาคารโรงนอน กองร้อย อส.อ สะบ้าย้อย ที่ 5,Basic Package,18,1,6.6272406442386371,100.94895845362552,hotel,Songkhla,Saba Yoi,Saba Yoi,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+RuZLFpcMMy,สุรัตน์,Basic Package,10,1,6.6594165135507932,100.43089617412721,apartment,Songkhla,Sadao,Sadao,บัณฑิต คำมุกชิก,'0622423154,mistermaxeg@gmail.com,real,notCustomer
+Q8iRNatK7y,อารียะ,Basic Package,,1,,,serviceApartment,Songkhla,Sadao,Sadao,อารี หมัดสมัน,'0844005555,,real,notCustomer
+xI3kbmDG0I,ชาฮีมอพาร์ตเมนต์,Basic Package,6,3,6.5304389999999994,101.3034028,apartment,Yala,Mueang Yala,Sateng Nok,Faisol Sadoh,'0878999429,fai_sol@hotmail.com,real,notCustomer
+Og5ZODWKii,M SOHO ตึก E,Basic Package,72,7,6.5872101,100.383479,hotel,Songkhla,Sadao,Samnak Kham,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+mb8uPyEljs,Yim Mansion,Basic Package,24,3,6.52055185351226,100.42173016816378,serviceApartment,Songkhla,Sadao,Samnak Kham,Worapat Ball,'0805996669,cutemoo@hotmail.com,real,notCustomer
+Heg2dfV8LM,M SOHO ตึก D,Basic Package,72,7,6.5872101,100.383479,hotel,Songkhla,Sadao,Samnak Kham,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+PDHZF85WJm,โรงแรมสาธิตแกรนด์วิว,Basic Package,198,1,6.5248193148859928,100.41728092698365,hotel,Songkhla,Sadao,Samnak Kham,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+iHRgfqAuoW,M SOHO ตึก B,Basic Package,71,7,6.5872101,100.383479,hotel,Songkhla,Sadao,Samnak Kham,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+zAspxhav3Q,M SOHO ตึก C,Basic Package,72,7,6.51962216170194,100.4076731137695,hotel,Songkhla,Sadao,Samnak Kham,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+WRQrQXKeDu,G9 HOTEL,Basic Package,17,6,6.5541956,100.4173453,hotel,Songkhla,Sadao,Samnak Kham,ศิริศิลป์ พุมดวง,'0620724091,phumdaungsirisin@gmail.com,real,notCustomer
+awyUQKW90y,VOUK ตึกA,Basic Package,72,6,6.5872101,100.383479,hotel,Songkhla,Sadao,Samnak Kham,ศิริศิลป์ พุมดวง,'0620724091,phumdaungsirisin@gmail.com,real,notCustomer
+uILJysA3cx,Csplace,Basic Package,46,6,6.522662749951162,100.41961658746003,apartment,Songkhla,Sum Nung Kam,Sumnak Kham*,Pingky Rich,'0613539822,,real,notCustomer
+sclQHe7bnA,B-Place,Basic Package,45,5,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,ทิพย์วารี หรูจินดา,'0945989242,,real,notCustomer
+PO4buiHG4d,สีหยก,Basic Package,19,2,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,ธีรวัฒน์ วังธนากร,'0815410411,,real,notCustomer
+1f2JIuezub,บ้าน,Basic Package,,1,7.1982646,100.590928,apartment,Songkhla,Hat Yai,Hat Yai,น้ำมนต์ น้ำมนต์,'0993911307,,real,notCustomer
+fTFaQv1Res,โก๊ะอพาร์ตเม้นต์,Basic Package,25,4,,,apartment,Songkhla,Hat Yai,Hat Yai,เดอะวัน ซาซูน่า,'0968504854,,real,notCustomer
+OZQIJfFwII,ไอยรา แมนชั่น,Basic Package,75,5,,,apartment,Songkhla,Hat Yai,Hat Yai,พรเทพ ศิริ,'0936543832,pontep69@gmail.com,real,notCustomer
+lxssklm1aN,ชิตตยาแมนชั่น,Basic Package,100,6,7.0169902138123206,100.49230012757798,apartment,Songkhla,Hat Yai,Hat Yai,ทิพย์กัลยา สง่ากุลพงศ์,'0894663886,xtrail5549@gmail.com,real,notCustomer
+v2uOpNYQMy,แฟลตนพรัตน์,Basic Package,26,3,7.003753021181466,100.47879617661238,apartment,Songkhla,Hat Yai,Hat Yai,Napat Naja,'0843304363,napat4naja@gmail.com,real,notCustomer
+naeDup3sCN,สุภาพิชญ์1,Basic Package,7,5,7.0259518,100.4716043,apartment,Songkhla,Hat Yai,Hat Yai,คมชาญ สัตตหิรัญ,'0869081616,,real,notCustomer
+wL0z3dtW4t,หอพักสิริโชค,Basic Package,18,4,,,apartment,Songkhla,Hat Yai,Hat Yai,Sutee Preechawuttidej,'0813184007,suteepc@yahoo.com,real,notCustomer
+vtKbIp97VW,ครูนัน,Basic Package,4,1,8.783934878485077,98.429907336831093,apartment,Trang,Huai Yot,Huai Yot,Praekwan Kanun,'0810183937,dfdfdfdkjiya@hotmail.com,real,notCustomer
+aQwwwf1i9E,หอพักเจริญสุข,Basic Package,20,3,6.7564152525615473,101.32163979113102,apartment,Pattani,Yarang,Khao Tum,นูรฮายาตี เจริญสุข,'0918474857,,real,notCustomer
+tAN39cMYi7,หอพักเจริญสุข,Basic Package,15,2,7.1253887198029808,101.2804266437888,apartment,Pattani,Yarang,Khao Tum,นูรฮายาตี เจริญสุข,'0918474857,,real,notCustomer
+Ne6Ijzx2n5,บ้านป้าใจ,Basic Package,14,5,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,รักพงศ์ ประพันธ์,'0816291676,,real,notCustomer
+CN1qUYfYJH,อรวรรณ,Basic Package,41,6,7.1726208216763441,100.61149880290031,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,นาย จตุรงศ์ เวชพิทักษ์,'0815587944,boombay14march@hotmail.com,real,notCustomer
+VkoAE6qpAW,kere,Basic Package,8,2,7.6515931,99.3118282,apartment,Trang,Sikao,Khao Mai Kaeo,Tum Kab,'0956370419,tumkab086@thaimail.com,unreal,notCustomer
+aBhbUzLlEx,วัดเอก,Basic Package,20,1,7.6373463545270646,100.33368643346557,hotel,Songkhla,Krasae Sin,Choeng Sae,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+lKSLvLrySv,กิจการบ้านพักรับรอง กองบิน 56,Basic Package,60,3,6.9306986560368191,100.41602629580079,hotel,Songkhla,Khlong Hoi Khong,Khok Muang,กิจการบ้านพักรับรอง กองบิน 56,'0980157400,,real,notCustomer
+qnBwYEaL1V,หอพักรักไทย,Basic Package,24,3,7.5163172849579114,99.627841848085,apartment,Trang,Mueang Trang,Khok Lo,Natree Nnr,'0658964514,,real,notCustomer
+TAbipq1nPt,Ban Ck house,Basic Package,1,1,,,apartment,Songkhla,Hat Yai,Hat Yai,Pireeporn Chaowakitjaroen,'0815424226,cpireeporn1@hotmail.com,real,notCustomer
+mHDCEwJ4U3,ซี.เค.เฮ้าส์,Basic Package,31,5,,,apartment,Songkhla,Hat Yai,Hat Yai,Pireeporn Chaowakitjaroen,'0815424226,cpireeporn1@hotmail.com,real,notCustomer
+IRYo8nLuBg,หอพักหญิงคุณโปรด,Basic Package,8,3,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,podsawat worrajin,'0897342929,,real,notCustomer
+xBLAWTvFCi,Ddd,Basic Package,5,2,13.756297497060988,100.50179611891508,apartment,Yala,Raman,Kalupang,อับดลกูดุส โดมาแร,'0908704340,kudus.dudu@gmail.com,unreal,notCustomer
+zNFkHM9rlA,หอพักมงคลพรม,Basic Package,48,3,7.5273409417767256,99.574895970535252,apartment,Trang,Mueang Trang,Khuan Pring,เอกฐาภร เทียนไทย,'0987361655,bigatp888@gmail.com,real,notCustomer
+6i9jmem2Yw,อนงค์รัตน์ ลิฟวิ่งเพลส,Basic Package,10,3,6.99411,100.5084,apartment,Songkhla,Hat Yai,Kho Hong,พิศิษฐ์ .,'0861654293,,real,notCustomer
+VUYdi2mMoW,นอนกับกิ๊บ,Basic Package,13,2,6.9985060999999993,100.499193,serviceAp,Songkhla,Hat Yai,Kho Hong,ณิชาภา อินทรพันธ์,'0819699811,,real,notCustomer
+lL0xLUqL4o,หอพักบ้านคุณยาย,Basic Package,16,2,,,apartment,Songkhla,Hat Yai,Kho Hong,worrapot suwanbandit,'0891580916,,real,notCustomer
+97bWww40pe,Park the photo,Basic Package,5,1,,,other,Narathiwat,Si Sakhon,Sako,ND'asree Ma'rohh,'0618958109,asree8737@gmail.com,real,notCustomer
+TeuqbAey1R,บ้านเช่าคุณปิ่น,Basic Package,6,1,7.2108439708185257,99.719710573554039,apartment,Trang,Palian,Thung Yao,Yothin Nunthachaipithak,'0954382398,yothinpithak@gmail.com,real,notCustomer
+c6vzY8iFkV,อรอนงค์,Basic Package,9,1,6.7618309500313618,101.32325481623411,apartment,Pattani,Mueang Pattani,Bana,อรอนงค์ คลี่บำรุง,'0867467198,,real,notCustomer
+uOgsF9XnGz,PN แมนชั่น,Basic Package,42,4,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,Jira Njoy,'0612109265,phatthanan950@hotmail.com,real,notCustomer
+9Q0PJI8THn,วังเขียว,Basic Package,11,1,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,Warun Uthaiphan,'0874787747,warun55@gmail.com,real,notCustomer
+pvIRou16hd,หอส้ม,Basic Package,16,4,6.991165994331161,100.46519167721272,apartment,Songkhla,Hat Yai,Hat Yai,พัชรี ทักสิน,'0993196429,,real,notCustomer
+HWS9kq9gQN,พรสินี2,Basic Package,7,5,7.0259854,100.47157,apartment,Songkhla,Hat Yai,Hat Yai,คมชาญ สัตตหิรัญ,'0869081616,,real,notCustomer
+fLOzz8BWja,เพิ่มทรัพย์,Basic Package,19,19,7.1431122667995481,100.47376669943333,apartment,Songkhla,Hat Yai,Hat Yai,พัชรี ทักสิน,'0993196429,,real,notCustomer
+a9JGAlopYz,ป.พีชาย,Basic Package,11,1,,,apartment,Songkhla,Hat Yai,Hat Yai,บุษบา คงดี,'0990195106,thenailbakery.dao@gmail.com,real,notCustomer
+Krz9vYXxBa,Treehouse Apartment,Basic Package,53,3,7.1427095314796833,100.59232833507384,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,เฉลิมรัตน์ สุกิจมงคลกุล,'0625451919,treehouse.skl@gmail.com,real,notCustomer
+Li251KV7AK,ฐิฏพรแมนชั่น,Basic Package,24,4,7.1568765,100.6047383,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,วชิระ ปลอดมณี,'0827310585,namlovezaa56@gmail.com,real,notCustomer
+SGyR6eDreX,G-Shirts,Basic Package,3,1,13.7563,100.5018,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Thanawat Paenkhong,'0954987970,thanawar.p1989@gmail.com,real,notCustomer
+q48FrrHQe4,G-Shirtss,Basic Package,6,1,13.7563,100.5018,other,Songkhla,Mueang Songkhla,Khao Rup Chang,Thanawat Paenkhong,'0954987970,thanawar.p1989@gmail.com,real,notCustomer
+itQ5DSFjKs,ลี แมนชั่น,Basic Package,63,6,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,วิศิษฏ์ อรุโณประโยชน์,'0896546464,,real,notCustomer
+2Uev5dKU1l,แม่ขรีอพาร์ทเม้นท์,Basic Package,24,4,7.3547410111753315,100.12647750348818,apartment,Phatthalung,Tamot,Mae Khari,Ruk Thongruk,'0869486723,rukkub@gmail.com,real,notCustomer
+YkxribLpeG,สหแมนชั่น,Basic Package,54,3,7.0293468999999993,100.4915171,apartment,Songkhla,Hat Yai,Kho Hong,ณฤษร อภินันทนากุล,'0899791718,,real,notCustomer
+g6n1mm7Eep,หอพักณัฐฐา,Basic Package,28,3,7.5486461999999994,99.616654,apartment,Trang,Mueang Trang,Thap Thiang,Atipoom Klabdee,'0966422635,t_ctha@hotmail.com,real,notCustomer
+5y8BdqLR5E,A P PLACE,Basic Package,84,7,7.1806839999999994,100.60836119999999,serviceApartment,Songkhla,Mueang Songkhla,Bo Yang,เอพี เพลส,'0856414653,apassanan20place@gmail.com,real,notCustomer
+QbgBdMhbPO,หอ 8,Basic Package,35,3,,,apartment,Yala,Mueang Yala,Sateng,ระวี ระเด่นอาหมัด,'0898696108,,real,notCustomer
+cICcWhnodR,IN HAUS,Basic Package,10,5,7.1711465263092213,100.60883869738508,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,อนวัทย์ วงศ์ช่วย,'0805499739,anawat_won@hotmail.com,real,notCustomer
+oe5yFFNZdI,Ao Manao Resort & Hotel Narathiwat.,Basic Package,33,3,6.4078617,101.8549588,hotel,Narathiwat,Mueang Narathiwat,Kaluwo Nuea,Jehnoree Tohtayong,'0936363510,aomanaoresorthotelnarathiwat@gmail.com,real,notCustomer
+d1C3MCjWIN,หอพักนครินทร์,Business Package,111,3,7.52037,99.58418,apartment,Trang,Mueang Trang,Khuan Pring,อมรศิริ ศรีสุทธิพงศ์,'0993611615,anupong.sri@hotmail.com,real,isCustomer
+M428VJgHlD,ชัยคณาแมนชั่น,Professional Package,108,6,7.0074644,100.4689889,apartment,Songkhla,Hat Yai,Kho Hong,อินทิรา ลาภานุพัฒนกุล,'0891333041,bammy_301@hotmail.com,real,isCustomer
+fcxANEg06w,ลูกรัก อะพาร์ตเมนต์ เฟส 2,Business Package,38,6,7.02912936928559,100.49671769091549,apartment,Songkhla,Hat Yai,Kho Hong,ธนพร ณ วาโย,'0962416394,ngamden@gmail.com,real,isCustomer
+FYM3A6soMj,Aston Residence,Professional Package,60,8,6.996313193090506,100.50538122653963,serviceApartment,Songkhla,Hat Yai,Kho Hong,ทิพปภา สังข์ศิลป์ชัย,'0813280505,,real,isCustomer
+5bZ9ZXGPHb,บ้านเช่าสยามเอ็ม,Business Package,112,8,6.9974653002155192,100.49198627471925,apartment,Songkhla,Hat Yai,Kho Hong,admin 1,'0902231607,sm2n1607@gmail.com,real,isCustomer
+eqgBAVG6GG,ปิ่นแก้ว อพาร์ทเมนท์ หาดใหญ่,Standard Package,20,5,6.9979303526782157,100.49216820221031,apartment,Songkhla,Hat Yai,Kho Hong,สมชาย วังสตางค์,'0814324326,guyasik999@gmail.com,real,isCustomer
+4I33aptIOt,Bright apartment,Business Package,78,6,,,apartment,Songkhla,Hat Yai,Kho Hong,Bright Apartment,'0950370679,,real,isCustomer
+EVmIBl4j0l,เอสเจ เรสซิเด้นท์ 2559,Business Package,106,8,7.00164,100.50011,serviceAp,Songkhla,Hat Yai,Kho Hong,ณัฐพล รณรงค์เสนีย์,'0814154562,nebi.boyz@gmail.com,real,isCustomer
+CmMUpK2faz,WAQAF House,Business Package,10,2,6.8595261067094437,101.27347469329834,apartment,Pattani,Mueang Pattani,Talubo,วากัฟ มะดีนะตุสสลาม,'0902014004,,real,isCustomer
+WuARRF3D0h,วีโก พลัส โฮม,Basic Package,24,2,6.424468,101.8150573,serviceApartment,Narathiwat,Mueang Narathiwat,Bang Nak,กัลยากร โกวิทยา,'0925079552,kallayakon1984@gmail.com,real,notCustomer
+H0CZQe4sVQ,บ้านริมจวน,Basic Package,51,2,6.4248033899122685,101.82198637847857,undefined,Narathiwat,Mueang Narathiwat,Bang Nak,TAE CWVB,'0911996961,tae.naphat@gmail.com,real,notCustomer
+nC4DCBvV3c,หอพักบ้านสวน (The Garden Service House),Business Package,35,1,6.4252405093535447,101.81645127156392,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,พลเทพ พรหมเจียม,'0999532464,titlepromjeam39@gmail.com,real,isCustomer
+cw3CvHAVhn,ทรัพย์รุ่งเรือง,Business Package,54,6,6.4186542407470144,101.81015789508821,serviceApartment,Narathiwat,Mueang Narathiwat,Bang Nak,พลเทพ พรหมเจียม,'0999532464,titlepromjeam39@gmail.com,real,isCustomer
+kObpi1QeoZ,Living Mansion วชิรา,Professional Package,75,5,7.1983301,100.5999507,apartment,Songkhla,Mueang Songkhla,Bo Yang,Wsotel/LV Apartment,'0993695551,atchar@hotmail.com,real,isCustomer
+8Fn1AqoIDi,บ้านฮังเลย์,Business Package,84,9,7.1708274889668226,100.60726024210453,apartment,Songkhla,Mueang Songkhla,Bo Yang,เรณู สุขพรสวรรค์,'0869614726,silada_ray@hotmail.com,real,isCustomer
+WfPcFyvQaB,หอพักเก้าแสน,Basic Package,21,2,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,รัตนาภรณ์ วิเศษธรรมปพน,'0884494377,wiset.rat.3024@gmail.com,real,notCustomer
+yfDbdsBLUH,ปัญญาชน,Standard Package,14,3,7.2010996337792639,100.59783462435009,apartment,Songkhla,Mueang Songkhla,Bo Yang,ปัญญาชน ปัญญาชน,'0845311288,,real,isCustomer
+KnXcJder5A,ปรายรุ้งแมนชั่น,Standard Package,36,4,7.1910563776860856,100.59368055313824,apartment,Songkhla,Mueang Songkhla,Bo Yang,จริยา ราชสีห์,'0867472410,,real,isCustomer
+7P4IrrkuVb,บริษัท ไทธรรมทัศน์ แมนชั่น จำกัด,Business Package,45,5,7.2011188915213129,100.59741869468991,apartment,Songkhla,Mueang Songkhla,Bo Yang,อัญชลิก ชูช่วย,'0815489669,Anchalik.mo@gmail.com,real,isCustomer
+2WXnfzrcmc,ทองภักดีอพาร์ทเมนท์,Basic Package,31,1,6.8790221,100.5498542,noBussiness,Songkhla,Mueang Songkhla,Bo Yang,นายอภินันท์ ทองด้วง,'0927959108,Apinan.tpd@gmail.com,unreal,notCustomer
+MGFiWPyr9m,วาวิสร,Business Package,65,6,7.1954888000000006,100.608406,apartment,Songkhla,Mueang Songkhla,Bo Yang,วิศิษฏ์ศักดิ์ ทับยัง,'0956603230,tongciv_79@hotmail.com,real,isCustomer
+LnsC6r2wMv,บริษัท โกลเด้น มัสซึทากะ จำกัด,Business Package,80,9,7.201438217700403,100.59762790699307,apartment,Songkhla,Mueang Songkhla,Bo Yang,อัญชลิก ชูช่วย,'0815489669,Anchalik.mo@gmail.com,real,isCustomer
+5EkEy088FX,บริษัท ไท ตะวัน แมนชั่น จำกัด,Business Package,55,5,7.2013743524825529,100.59713974495236,apartment,Songkhla,Mueang Songkhla,Bo Yang,อัญชลิก ชูช่วย,'0815489669,Anchalik.mo@gmail.com,real,isCustomer
+tTBGnHGWpA,บ้านสุขใจ,Standard Package,12,3,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,Sarun Chonpaisarn,'0884892997,cute_a82@hotmail.com,real,isCustomer
+evBlvuMuSo,Dee Garden House,Business Package,11,1,7.8246016,99.8696358,home,Phatthalung,Pa Phayom,Ban Phrao,วันดี รอดปาน,'0893915951,nudee23@hotmail.com,real,isCustomer
+Eu68ggBfA2,ตลาดเมืองใหม่ป่าพะยอม,Standard Package,192,3,7.8346554644104156,99.938457067159277,market,Phatthalung,Pa Phayom,Ban Phrao,ยมนา กลับคุณ,'0891959091,klubkun@hotmail.com,real,isCustomer
+B3LEDDRAWB,โซน อพาร์ทเม้นท์,Business Package,51,3,7.8141767999999994,99.952096099999991,serviceApartment,Phatthalung,Pa Phayom,Ban Phrao,ปิยบุตร ชูคง,'0987250706,zeen.piyabut@gmail.com,real,isCustomer
+vHtozWaEpA,S.K. Park,Business Package,38,4,7.8522540259190547,99.9353428,hotel,Phatthalung,Pa Phayom,Pa Phayom,ฐิติพร คชภักดี,'0853421924,Skparkhotel345@gmail.com,real,isCustomer
+GiwIWTbI8m,วนิวินัย Waniwinai Apartment,Business Package,78,5,7.126965319897975,100.57483434677124,serviceApartment,Songkhla,Mueang Songkhla,Phawong,สิทธิพัฒน์ เสนเนียม,'0625956452,waniwinaiapartment@gmail.com,real,isCustomer
+yoGesgPbdP,เติมสุขอพาร์ทเมนต์,Basic Package,14,4,7.136131716401783,100.57484440505505,apartment,Songkhla,Mueang Songkhla,Phawong,ณฐพฤฒ จันทร์แดง,'0814180015,nataprut.j@cattelecom.com,real,notCustomer
+IcqJSZOEa3,แสนสุขอพาร์ตเมนต์,Standard Package,32,3,7.1151193887029818,100.57344477707673,apartment,Songkhla,Mueang Songkhla,Phawong,นันธิญา มีปาน,'0896559013,ukkanirut@hotmail.com,real,isCustomer
+9sNEDeoEIV,มิสบะห์ ไชยา,Basic Package,72,2,13.7563,100.5018,apartment,Narathiwat,Ra-ngae,Maruebo Tok,นัจมี สาและ,'0833992563,najameesalaeh@gmail.com,unreal,notCustomer
+neTzKBrHQh,นาระดาเรสซิเด้นท์,Business Package,59,11,6.86262,101.23617,apartment,Pattani,Mueang Pattani,Ru Samilae,จิตรวัลย์ วีระจิตต์,'0875519390,,real,isCustomer
+ZzhmUgafKh,หอพักหญิงอิบนูอัฟฟานหลังมอ.,Standard Package,45,3,6.8801154371056423,101.24120107790986,apartment,Pattani,Mueang Pattani,Ru Samilae,มาเรีย เจะเตะ,'0862985011,mariacheteh@gmail.com,real,isCustomer
+C7SSmjDhgG,อัฟฟานเรสซิเดนส์,Standard Package,56,6,6.8694004999999994,101.2505188,apartment,Pattani,Mueang Pattani,Ru Samilae,ฟาตีมะห์ สมาด,'0828036983,fateemah1982@gmail.com,real,isCustomer
+COPqSbaBcv,หอพักบ้านคุณยาย,Standard Package,25,4,6.8759892581741955,101.23264271314466,serviceAp,Pattani,Mueang Pattani,Ru Samilae,อธิปัตย์ รัฐการัณย์,'0892952242,atipat_1975@hotmail.com,real,isCustomer
+BWbG1AsGNB,ระวีแมนชั่น,Business Package,68,5,,,apartment,Pattani,Mueang Pattani,Ru Samilae,จิตรวัลย์ วีระจิตต์,'0875519390,,real,isCustomer
+309yQYHPqO,หอพักหญิงอิบนูอัฟฟาน2,Standard Package,57,4,6.7618307999999994,101.3232549,apartment,Pattani,Mueang Pattani,Ru Samilae,เจ๊ะนูรียะห์ บูงอตาหยง,'0874798236,,real,isCustomer
+qKBadVJXyu,D'Nada Home,Business Package,11,4,,,apartment,Pattani,Mueang Pattani,Ru Samilae,นิอารีฟา บินหะยีอารง,'0894636149,fatato_5@windowslive.com,real,isCustomer
+pghsUl5q8c,The Rooms Residence,Business Package,56,5,6.87014,101.24767,apartment,Pattani,Mueang Pattani,Sabarang,จุรีพร ครุฑเมือง,'0818983045,jureeporn.krootmuang@gmail.com,real,isCustomer
+bxglf4DkpB,THE MAX RESIDENCE,Business Package,33,8,6.6364833,100.4238366,apartment,Songkhla,Sadao,Sadao,นายสุรวิชช์ เจริญกุล,'0824815821,surawit26@gmail.com,real,isCustomer
+V4VDo1Fvjc,อารียะห์ อพาร์ตเม้นท์ สะเดา Areeyah Apartment Sadao,Business Package,24,4,6.6355162345369383,100.42658597230911,serviceApartment,Songkhla,Sadao,Sadao,อารี หมัดสมัน,'0815405405,,real,isCustomer
+DdJXUpQjfW,คุณหญิง อพาร์ทเม้นท์,Business Package,43,4,6.5499746885464116,101.29317283630373,apartment,Yala,Mueang Yala,Sateng,ภาณุพงศ์ สิริวิวัฒนา,'0896539373,sc11475024@gmail.com,real,isCustomer
+gTbE2KHGwb,ค่าไฟฟ้า ตลาดรักษ์เกษตรไทย,Business Package,181,17,6.5578405141334786,101.27548169291535,market,Yala,Mueang Yala,Sateng,ภรวรรณ นิจจรัลกุล,'0896561446,anpn656@gmail.com,real,isCustomer
+b9q05sGjjy,playboxyala,Standard Package,17,5,,,apartment,Yala,Mueang Yala,Sateng,นัสเราห์ บาราเฮง,'0866448744,playboxyala@gmail.com,real,isCustomer
+IJBooBtBI0,ค่าน้ำ ตลาดรักษ์เกษตรไทย,Business Package,81,9,6.558943133256264,101.27650679692843,market,Yala,Mueang Yala,Sateng,ภรวรรณ นิจจรัลกุล,'0896561446,anpn656@gmail.com,real,isCustomer
+opkVtQ8hgn,ค่าเช่า ตลาดรักษ์เกษตรไทย,Business Package,200,13,6.5579257832303686,101.27550315058747,market,Yala,Mueang Yala,Sateng,ภรวรรณ นิจจรัลกุล,'0896561446,anpn656@gmail.com,real,isCustomer
+5bog2mzWhV,นิบงอพาร์ทเม้นท์,Business Package,74,5,6.5433,101.29375,serviceAp,Yala,Mueang Yala,Sateng Nok,นายปรมัตถ์ ปิ่นศิโรดม,'0846890569,,real,isCustomer
+01SyXOL9l4,บริษัท ซีดับเบิลยูแอล กรุ๊ป จำกัด,Professional Package,109,5,6.6364252,100.4213368,apartment,Songkhla,Sadao,Samnak Kham,ชวลิต คงคาระบือ,'0829170888,chawalitzax@gmail.com,real,isCustomer
+TI0ZFrBRLR,สุนิสา อพาร์ทเมนท์,Business Package,243,20,6.8790221,100.5498542,apartment,Songkhla,Sadao,Samnak Kham,สุธิดา ลิ่ววัฒนะโชตินันท์,'0919979393,,real,isCustomer
+I3cF0B9b8L,ศุภกิจ อพาร์ทเมนท์2,Business Package,111,10,6.5872101,100.383479,serviceApartment,Songkhla,Sadao,Samnak Kham,siriwassa liuwatanachotinan,'0919979696,,real,isCustomer
+am1emAuiTw,Perfect Place,Business Package,31,5,6.5307724801790652,100.4134511947632,serviceAp,Songkhla,Sadao,Samnak Kham,Kittipong Sutampajak,'0989874289,super_pangpond1@hotmail.com,real,isCustomer
+L4I1ghFMol,หลับดี,Business Package,24,4,6.5293388136128625,100.41747985543046,apartment,Songkhla,Sadao,Samnak Kham,Kittipong Sutampajak,'0989874289,super_pangpond1@hotmail.com,real,isCustomer
+6RAXQzjqoe,สุธิดา อพาร์ทเมนท์,Business Package,78,10,6.5872101,100.383479,apartment,Songkhla,Sadao,Samnak Kham,siriwassa liuwatanachotinan,'0919979696,,real,isCustomer
+RpBXdN7Wpx,M Village A-H,Professional Package,355,9,6.5297513,100.4125415,serviceApartment,Songkhla,Sum Nung Kam,Sumnak Kham*,ชวลิต คงคาระบือ,'0829170888,chawalitzax@gmail.com,real,isCustomer
+udDBvTCZD6,โกลเด้น คอร์ท,Business Package,168,4,7.00644,100.47885,apartment,Songkhla,Hat Yai,Hat Yai,อมรรัตน์ ศรีประพันธ์,'0819576659,ann.spp@gmail.com,real,isCustomer
+q15i5YO0ri,มินิโกลเด้นคอร์ท,Business Package,56,5,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,อมรรัตน์ ศรีประพันธ์,'0819576659,ann.spp@gmail.com,real,isCustomer
+fAHtzr9r8A,ภัสธิตา แมนชั่น,Professional Package,62,6,6.9955533890892854,100.476297698915,apartment,Songkhla,Hat Yai,Hat Yai,Phatthita Srinitiworawong,'0641498944,phatthita.prim@gmail.conm,real,isCustomer
+HGrKJuCl8S,บ้านโพธิ์ศรี เรสซิเดนซ์,Business Package,22,4,7.0250505203162046,100.47565696249733,undefined,Songkhla,Hat Yai,Hat Yai,สัณฐิศักดิ์ ขุมเงิน,'0813259565,flukesuntisak@gmail.com,real,isCustomer
+qojJtgjHJZ,อยู่สบายดี,Business Package,76,8,7.0086472,100.4746879,serviceApartment,Songkhla,Hat Yai,Hat Yai,แอดมิน  1 ,'0819900064,sukantima@hotmail.com,real,isCustomer
+978O9CyrB4,ศิลา,Business Package,63,4,7.0086472,100.4746879,serviceApartment,Songkhla,Hat Yai,Hat Yai,Worasak Sarukpruk,'0899277232,sarukpruk.worasak@gmail.com,real,isCustomer
+YBBpLf1aVw,ปฐมทิพย์ แมนชั่น,Professional Package,121,7,7.0123163,100.4729601,apartment,Songkhla,Hat Yai,Hat Yai,กัลยา จินตนาตันติ,'0969269879,muayyai.ol@gmail.com,real,isCustomer
+irufHwfSTF,อินทนิล แมนชั่น,Business Package,27,4,6.9976798497215995,100.46555545181036,apartment,Songkhla,Hat Yai,Hat Yai,พลัฎฐ์ ศรีเดชาสินธุ์,'0616287878,palat1995a@gmail.com,real,isCustomer
+LsbCWCqidx,อุ่นบ้านล้านนา,Basic Package,9,3,6.9988043075396265,100.46467937529087,apartment,Songkhla,Hat Yai,Hat Yai,ศรัย นวพรธนภัทร,'0646069564,khunpednoi.shop@gmail.com,real,notCustomer
+6f4DRYSTDN,บุญรองอพาร์ทเม้นท์,Basic Package,57,6,,,apartment,Songkhla,Hat Yai,Hat Yai,Oh Oh,'0973570251,ohbooty55@gmail.com,real,notCustomer
+TsKEHZJuSc,Chapter Residence,Professional Package,153,13,6.9969036105407429,100.49880965881228,undefined,Songkhla,Hat Yai,Hat Yai,ทิพปภา สังข์ศิลป์ชัย,'0813280505,,real,isCustomer
+CL3KCD2koT,จิตตะวันแมนชั่น,Standard Package,40,4,7.0151836800276488,100.48413209617138,apartment,Songkhla,Hat Yai,Hat Yai,Kornpatchara Khaunphadungsak,'0893666695,kornpatchara2024@gmail.com,real,isCustomer
+zgThT4HiOy,ห้องพักหาดใหญ่_เพชรแมนชั่น,Basic Package,38,6,6.9977761148571265,100.48306913261932,serviceApartment,Songkhla,Hat Yai,Hat Yai,ปารวัณ แซ่ลิ่ม,'0831922639,gmi.epm16@gmail.com,real,notCustomer
+RGWjHEDxEu,สิรารมย์ แมนชั่น,Standard Package,59,6,7.00481,100.49054,apartment,Songkhla,Hat Yai,Hat Yai,Dhanat Sirarom,'0816905153,,real,isCustomer
+NMdelB88A6,ซอฟเทลแมนชั่น,Business Package,39,6,7.01766,100.45593,apartment,Songkhla,Hat Yai,Hat Yai,นภัสวรรณ ใจดี,'0812987576,,real,isCustomer
+DyD0fDYFpR,ตู้นอน,Standard Package,28,5,6.9938004508470595,100.47614452722927,apartment,Songkhla,Hat Yai,Hat Yai,Koson Suri,'0800002300,koson.su@hotmail.com,real,isCustomer
+hSjJnoS3sb,ชิตตยาแมนชั่น,Professional Package,103,6,7.0171659639995925,100.49222235799634,apartment,Songkhla,Hat Yai,Hat Yai,จักรพาสน์ สง่ากุลพงศ์,'0945954695,,real,isCustomer
+S8En65ZeNQ,หจก.ไชยณรงค์ แมนชั่น,Business Package,49,5,7.0224495730676839,100.47217011451721,serviceAp,Songkhla,Hat Yai,Hat Yai,จรัส ไชยณรงค์,'0816097601,Tee_fortuner@hotmail.co.th,real,isCustomer
+auPLJEk2X9,Varee​ ​Place,Standard Package,34,6,7.0163586759607766,100.48995718359946,apartment,Songkhla,Hat Yai,Hat Yai,ประณิธาน วารีกุล,'0632566449,pranitan32@gmail.com,real,isCustomer
+HcTjZz93LF,กองทุนบริหารกิจการประปาหมู่บ้านตีนนา,Business Package,142,1,6.6364252,100.4213368,undefined,Songkhla,Sadao,Khao Mi Kiat,Kat Horganice,'0618824445,katthareeya.d@horganice.in.th,real,isCustomer
+i73g4hi6q6,ปฐมทิพย์ อพาร์ทเม้นท์,Professional Package,215,8,7.1705682571064919,100.60872098680981,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,nt pt,'0651465994,muaylekakaka@gmail.com,real,isCustomer
+6RuF4nFCLi,Wsotel รายวัน 85ห้อง 25.11.66,Professional Package,108,15,7.162776,100.6071234,serviceApartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Wsotel/LV Apartment,'0993695551,atchar@hotmail.com,real,isCustomer
+sDFF1naMaG,วนากาญจน์ อพาร์ทเม้น,Business Package,107,9,7.162776,100.6071234,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,วนากาญจน์ รัตโนดม,'0869597525,wanakan@yahoo.com,real,isCustomer
+8cJpF9qmpy,ฉัตรเพชรเเมนชั่น,Business Package,156,7,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Neatdown Tawanwongsri,'0818971644,neatdown2514@hotmail.com,real,isCustomer
+pFzpIEA4BD,หอพักรุ่งทิวา 2,Business Package,90,7,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,พึ่งพร ปริสุทธิ์กุล,'0851217565,aon_cupid@hotmail.com,real,isCustomer
+PmZUU7k6wg,หอพักเก้าเเสน,Business Package,21,2,7.1784954254433879,100.61680555343629,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ธีธัช คล้ายสถิตย์,'0842905322,Teetaach22@gmail.com,real,isCustomer
+p0n6pDOc7C,บ้านเช่าสอ.,Business Package,11,1,7.1666908841705288,100.60299857550392,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Panitsupa Semarksuk,'0887840946,pimnipa_s@hotmail.com,real,isCustomer
+B1mPfMTjmB,ปิยะศาล,Standard Package,30,30,7.1595450654890787,100.60649011284113,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ไพศาล ศูนย์คล้าย,'0815988854,piyasan1514@gmail.com,real,isCustomer
+8GnniTCb1E,หอพักรุ่งทิวา 1,Business Package,96,7,6.8790221,100.5498542,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,พึ่งพร ปริสุทธิ์กุล,'0851217565,aon_cupid@hotmail.com,real,isCustomer
+47ZlCbZnsG,B Brand Hotel,Basic Package,22,7,7.1514609755513829,100.59824466705322,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ภูริชญา บริรักษ์,'0642919995,aom.thm3@gmail.com,real,notCustomer
+nHj1Jp68Gb,Wsotel Managemant Company Limited รายเดือน 65 ห้อง 25.11.66,Professional Package,71,13,7.162776,100.6071234,serviceAp,Songkhla,Mueang Songkhla,Khao Rup Chang,Wsotel/LV Apartment,'0993695551,atchar@hotmail.com,real,isCustomer
+jjNcx42F84,TNT,Business Package,335,8,7.1594083685068393,100.60518216069642,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Tanatip Apartment,'0864615176,phatsut.l@gmail.com,real,isCustomer
+iFi3JYswEm,SnapProperty,Standard Package,159,11,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Ratchavich Thanaketphokin,'0996804155,snapper_053@hotmail.com,real,isCustomer
+tIBFzP8lug,สุวรรณภูมิ ตรัง รีสอร์ท (สำนักงานใหญ่),Professional Package,41,5,7.5670301,99.745565,serviceApartment,Trang,Mueang Trang,Khok Lo,ณัฐพล ภูมิมาตร,'0814668257,suwannaphumtrang@gmail.com,real,isCustomer
+TsiVVDgK4k,หอพักบินระหีม,Business Package,130,4,6.4350352,101.8228923,apartment,Narathiwat,Mueang Narathiwat,Khok Khian,Admin StdPNU,'0639654041,laashakir@gmail.com,real,isCustomer
+lmFkOEiuhe,หอพักเปลื้องประสิทธิ์,Business Package,131,4,6.4535458578321894,101.78789015311591,apartment,Narathiwat,Mueang Narathiwat,Khok Khian,Admin StdPNU,'0639654041,laashakir@gmail.com,real,isCustomer
+PY2fbs9mnz,หอพักเทพพรหม,Business Package,65,4,6.4350352,101.8228923,apartment,Narathiwat,Mueang Narathiwat,Khok Khian,Admin StdPNU,'0639654041,laashakir@gmail.com,real,isCustomer
+G7vP6gJmK9,หอพักสุรวัลลภ,Business Package,132,4,6.4350352,101.8228923,apartment,Narathiwat,Mueang Narathiwat,Khok Khian,Admin StdPNU,'0639654041,laashakir@gmail.com,real,isCustomer
+PlCKsChZ3Y,บ้านไอตะวัน,Business Package,29,1,7.5293139682921462,99.349062815308571,apartment,Trang,Sikao,Mai Fat,IpalmZa Rodrat,'0993292824,ipalmza.za@gmail.com,real,isCustomer
+9VbEMmRg2E,ลิ้มเกีบรติแมนชั่น,Basic Package,20,3,7.4064614,99.5092543,apartment,Trang,Kantang,Kantang,สุดารัตน์ ดำแก้ว,'0898929594,,real,notCustomer
+ExbegEtxwr,แฟลช รพ,Basic Package,84,7,,,apartment,Yala,Raman,Kayu Boko,นายซิดดีก อาบูซาแล,'0899622814,,real,notCustomer
+Lc9BFvSepu,โอทู,Basic Package,10,1,,,hotel,Songkhla,Hat Yai,Khlong Hae,ปิยะลักษณ์ ศรีเฉลิม,'0939272866,,real,notCustomer
+7tEAG4oNgK,บ้านเช่าตลาดน้ำ,Basic Package,32,2,,,apartment,Songkhla,Hat Yai,Khlong Hae,จักราวุธ แสงทอง,'0849083297,,real,notCustomer
+qlEkHwXPc2,ลลิตา,Basic Package,1,1,,,apartment,Songkhla,Hat Yai,Khlong Hae,พงศ์ภัค อ่อนศรีทอง,'0832807819,,real,notCustomer
+xcrhfqd9qx,46/9,Basic Package,9,2,7.5227585988287853,99.561299735360649,apartment,Trang,Kantang,Khuan Thani,กัมปนาท ภักดีพันธ์,'0848427664,zaklowza@gmail.com,real,notCustomer
+WQYmwSZXkh,บ้านพอเพียง,Basic Package,3,1,7.5382267900490927,99.586368575692177,apartment,Trang,Mueang Trang,Khuan Pring,กา ตูนนนน,'0993640667,ubonwan25618@gmail.com,real,notCustomer
+DMm9y3cWLn,บ้านใบหม่อน,Basic Package,22,1,,,apartment,Songkhla,Hat Yai,Khuan Lang,อภิชัย สุวรรณโชติ,'0646345300,max_muser@hotmail.com,real,notCustomer
+Eab9nWbnxG,โกลด์เด้นท์โฮม,Basic Package,32,3,,,apartment,Songkhla,Hat Yai,Khuan Lang,พุมมา บุญญะคง,'0884894836,pumma48366@gmail.com,real,notCustomer
+oZCWpfXMl4,ชาเล่ต์มาร์เก็ต,Basic Package,10,1,6.9498424651158048,100.41557047516109,market,Songkhla,Hat Yai,Khuan Lang,กุลยส ถาวราวุธ,'0805410244,chaletmarket.mkt@gmail.com,unreal,notCustomer
+yzKy4UIltc,ทองใส,Basic Package,100,10,,,apartment,Pattani,Nong Chik,Kholo Tanyong,สมควร ทองใส,'0827269952,,real,notCustomer
+Cj2fjDEVPe,บ้านศยารัตน์,Basic Package,8,4,6.9997350863476377,100.50041411072016,apartment,Songkhla,Hat Yai,Kho Hong,ตรัยรัตน์ จันทรัตนะ,'0909477691,fuji2830@gmail.com,real,notCustomer
+jl4jLEehA4,Seoulmate House1,Basic Package,3,2,,,home,Songkhla,Hat Yai,Kho Hong, ,'0922992924,bunyakan2541@gmail.com,real,notCustomer
+PfhvPqjzxO,บ้านคุณละเวงอพาร์ทเม้นต์,Basic Package,22,5,,,apartment,Songkhla,Hat Yai,Kho Hong,ณรัชต์หทัย เมืองศรีนุ่น,'0959299665,nokkoja9966@gmail.com,real,notCustomer
+KkexmxHPYa,ห้างหุ้นส่วนจำกัด โชติปิตินันท์ ธุรกิจ,Basic Package,100,10,6.9965670364766854,100.47838814556597,apartment,Songkhla,Hat Yai,Kho Hong,ณริศศรณ์ โชติปิตินันท์,'0924954654,chotpitinan4655@gmail.com,real,notCustomer
+6lwmzqfVON,เหมือนฝันอพาร์ทเม้นท์,Basic Package,80,5,,,apartment,Songkhla,Hat Yai,Kho Hong,ณภัทร นาคา,'0891396863,,real,notCustomer
+jz90aCyR2F,Baanna,Basic Package,7,4,6.9999104599087518,100.50642393529415,apartment,Songkhla,Hat Yai,Kho Hong,วรินธร ศรีราษฎร์,'0896904904,,real,notCustomer
+0n90nhElLC,ห้องพักวริน,Basic Package,10,4,6.9996236059661552,100.50657950341702,apartment,Songkhla,Hat Yai,Kho Hong,วรินธร ศรีราษฎร์,'0896904904,,real,notCustomer
+EH4yR6Y6Rx,Escent Condo,Basic Package,1,22,7.0074644,100.4689889,hotel,Songkhla,Hat Yai,Kho Hong,Amanee Arwae,'0657783029,amaneearwae1334@gmail.com,real,notCustomer
+CQwj9P730H,ทดสอบหมายเลข9,Basic Package,9,1,6.9789151733692449,100.47571786826175,serviceApartment,Songkhla,Hat Yai,Kho Hong,Wittawat Sahaviriya,'0840002422,onthebeach9@hotmail.com,real,notCustomer
+Lp77Otq29e,คอนโดมีสุข,Basic Package,100,10,,,other,Songkhla,Hat Yai,Kho Hong,อติกันต์ อาจหมั่น,'0869446955,,real,notCustomer
+VJc6frJpx7,หอพักบ้านทวีสุข,Basic Package,18,3,7.0014109494098982,100.50034772604704,apartment,Songkhla,Hat Yai,Kho Hong,ชนัสระวี สุธีรวุฒิ,'0874933433,chanusrawee@gmail.com,real,notCustomer
+y5v91JuxXc,หอหญิง,Basic Package,,4,,,apartment,Songkhla,Hat Yai,Kho Hong,กนกนาฏ เทพหนู,'0950897997,,real,notCustomer
+DjI0M5C0Ht,บ้านบุญเรือน อพาร์ทเม้นท์,Basic Package,24,5,,,apartment,Songkhla,Hat Yai,Kho Hong,บ้านบุญเรือน อพาร์ทเม้นท์,'0620769076,tuktatuk52@gmail.com,real,notCustomer
+vB8QoiiYmz,miracle  st,Basic Package,37,6,,,apartment,Songkhla,Hat Yai,Kho Hong,Sutus Nubungkert,'0818964085,,real,notCustomer
+Mkg2pJif5E,Miracle ST,Basic Package,36,5,,,apartment,Songkhla,Hat Yai,Kho Hong,Sutus Nubungkert,'0818964085,,real,notCustomer
+rM9zNfFhLN,แฟลตสาธารณสุข,Basic Package,12,3,7.6212662295772233,100.07304634898902,apartment,Phatthalung,Mueang Phatthalung,Khuha Sawan,Phutip Sangsao,'0863263769,phutip_new@hotmail.com,real,notCustomer
+6ovNwNKvrk,Oragne,Basic Package,6,2,7.6134554400965007,100.06601594388485,apartment,Phatthalung,Mueang Phatthalung,Khuha Sawan,ภูริญ หวังโชคผดุง,'0801455198,phurinhouse@gmail.com,real,notCustomer
+lqtTu9Y0en,HARIS,Basic Package,29,1,,,apartment,Pattani,Mueang Pattani,Chabang Tiko,ชาฟิค ฮารีส,'0869588666,,real,notCustomer
+hkNE6giQew,บ้านริมชล,Basic Package,9,1,,,apartment,Songkhla,Na Thawi,Chang,Auksaranut Ratnikorn,'0981296317,,real,notCustomer
+BLppLQQofI,万花园,Basic Package,88,7,5.7718215,101.0715158,hotel,Yala,Betong,Tano Maero,xn xl,'0909014575,,real,notCustomer
+ndgCFBFfsG,chaiya apartment,Basic Package,28,3,7.5538257000000009,99.6174332,serviceAp,Trang,Mueang Trang,Thap Thiang,chaiya leelawan,'0866070078,,real,notCustomer
+y1X8eD1NCE,ตรังกระบี่,Basic Package,80,2,,,apartment,Trang,Mueang Trang,Thap Thiang,เกษศิฐาณัชฎิ์ สวนอินทร์,'0936917412,,real,notCustomer
+tg2eh8EsEf,Guide apartment,Basic Package,45,7,,,apartment,Songkhla,Hat Yai,Thung Tamsao,sarun chancharoen,'0892999769,,real,notCustomer
+4rcn9vjgwO,บ้านจิราณัฐ,Basic Package,25,3,,,apartment,Songkhla,Na Thawi,Na Thawi,Auksaranut Ratnikorn,'0981296317,,real,notCustomer
+jWg72G3Mu4,ดินเนอร์,Basic Package,48,5,7.2040123976622565,100.60041300883164,noBussiness,Songkhla,Hat Yai,Nam Noi, ,'0617917164,,unreal,notCustomer
+YOPAzFie4H,พฤกษาเฮ้าส์,Basic Package,19,1,6.424468,101.8150573,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,สุชินันต์ พฤกษ์พัฒนรักษ์,'0628965324,suchinant@hotmail.com,real,notCustomer
+EdHZyIqNHE,หอพักทรัพย์รุ่งเรือง ตึกเขียว,Basic Package,34,2,6.4182998611995794,101.80995404720308,serviceApartment,Narathiwat,Mueang Narathiwat,Bang Nak,พลเทพ พรหมเจียม,'0887826726,pholthep.pro@gmail.com,real,notCustomer
+DPkfG1jgiv,Al-rahman,Basic Package,19,3,6.424468,101.8150573,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,Hakheemee Kheeree,'0633433540,hkheeree@gmail.com,real,notCustomer
+OLLm1FpQa5,หอพักสตรีเอฟมาร์ท,Basic Package,15,2,,,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,ฟูรกอน บินฮายีอาแว,'0887818377,,real,notCustomer
+to6BweravJ,หอพักทรัพย์รุ่งเรือง,Basic Package,34,2,6.4183425075600695,101.81010961532594,serviceApartment,Narathiwat,Mueang Narathiwat,Bang Nak,พลเทพ พรหมเจียม,'0887826726,pholthep.pro@gmail.com,real,notCustomer
+5BvDtBwYkj,อพาร์ทเมนท์ เพิ่มลาบ,Basic Package,42,48,,,apartment,Pattani,Mueang Pattani,Bana,คาราเมล นมสด,'0968597283,ploy096859@gmail.com,real,notCustomer
+6YGJZ1M2KC,เรือนชมพูพรรณทิพย์,Basic Package,22,3,7.1989242181076358,100.59831976890565,apartment,Songkhla,Mueang Songkhla,Bo Yang,ศศิธร ธรรมปาโล,'0835199121,sasithornthammapalo@gmail.com,real,notCustomer
+ApVijfLeZr,บ้านรักษ์,Basic Package,5,1,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,อภิรักษ์ สาธร,'0635369172,luck0074@outlook.com,real,notCustomer
+vcBGNFZLaz,วชิรวิชญ์,Basic Package,19,4,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,Natthanicha Mingkaew,'0907172190,,real,notCustomer
+eWa91HQSrx,เอกอัมพวัลย์,Basic Package,,1,7.1983301,100.5999507,apartment,Songkhla,Mueang Songkhla,Bo Yang,ณัฐธิดา เอกอุรุ,'0849922282,kwangekouru@gmail.com,real,notCustomer
+B03EwtAieD,ศรีกะรัต เรสซิเดนซ์,Basic Package,87,5,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,Patcharin Petcharat,'0932264515,,real,notCustomer
+RD0M23RTm2,ณัฐ แมนชั่น,Basic Package,56,5,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,สุพิศ จันทร์เอียด,'0941583330,,real,notCustomer
+HrXOIISkxC,รุ่งเพชร,Basic Package,33,4,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,ศิริวรรณ อุบลสูตรวนิช,'0819594728,,real,notCustomer
+uwsd2By9jD,good night,Basic Package,13,2,7.1705337556313928,100.60723476111889,apartment,Songkhla,Mueang Songkhla,Bo Yang,พิชญาภา รามรังสฤษฎ์,'0935835330,xer.bam@hotmail.com,real,notCustomer
+MIaQdXGAJI,LA PINO HOTEL,Basic Package,20,5,7.1871321843903733,100.59874907036129,hotel,Songkhla,Mueang Songkhla,Bo Yang,ฮัมดาน เตาะสาตู,'0910489977,hamdan.taosatu2011@gmail.com,real,notCustomer
+4fs39ZJ7Bj,บ้านชวิศา อพาร์ทเมนต์,Basic Package,20,2,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,สุประดิษฐ์ สังข์สุวรรณ,'0819633403,,real,notCustomer
+9Qr15zYDop,เสริมสุข,Basic Package,7,1,6.8790221,100.5498542,apartment,Songkhla,Mueang Songkhla,Bo Yang,ชนนิกานต์ โฆษิตานราพร,'0661361454,kositachonnikan@gmail.com,real,notCustomer
+onMPHaIt6I,ซ.16 วชิรา,Basic Package,4,3,,,apartment,Songkhla,Mueang Songkhla,Bo Yang,ณัฐวีร์ ศรีเมือง,'0832121071,blackhole2499@gmail.com,real,notCustomer
+Fv5wcHiWDM,OWL HUG,Basic Package,18,2,,,apartment,Phatthalung,Mueang Phatthalung,Ban Na*,Nattawut Loayi,'0856714882,,real,notCustomer
+z8sNd5KxEQ,อยู่สบาย,Basic Package,5,1,,,apartment,Songkhla,Hat Yai,Ban Phru,ภัทรา สหะวิริยะ,'0840635465,patra2964@gmail.com,real,notCustomer
+l3cm44Uoe3,คุณสุมล,Basic Package,9,1,,,apartment,Songkhla,Hat Yai,Ban Phru,Chakkait Methanai,'0936152987,ck0819905003@gmail.com,real,notCustomer
+dTbGngi1yB,คลองยา,Basic Package,5,1,,,apartment,Songkhla,Hat Yai,Ban Phru,Chakkait Methanai,'0936152987,ck0819905003@gmail.com,real,notCustomer
+fs7PrtxbIv,prajan,Basic Package,5,1,6.7937312999999993,101.2807224,apartment,Pattani,Yarang,Prachan,Abiya Ittan,'0635912966,,real,notCustomer
+tWdOsQt2dN,ปันรัก&ปันอิ่ม,Basic Package,10,1,,,apartment,Songkhla,Sadao,Prik,Mild Phannita,'0612127750,psuwit.phannita.wlb@gmail.com,real,notCustomer
+hpQORr74v8,Sara house,Basic Package,5,1,7.1851995662922752,100.59473298490047,serviceApartment,Songkhla,Sadao,Prik,Kornisara Sara,'0986831434,sarakornisa00924@gmail.com,real,notCustomer
+P1mJLFhHgE,หอพักหมอยา,Basic Package,13,3,7.1312428,100.578718,apartment,Songkhla,Mueang Songkhla,Phawong,ธีรวุฒิ เอียดทอง,'0849955771,,real,notCustomer
+TvbdWHnZ1m,The Fez Pollvilla,Basic Package,1,1,7.048757245101485,100.50195939838886,hotel,Songkhla,Mueang Songkhla,Phawong,นฤชาติ สายสะอิด,'0835123137,,real,notCustomer
+qNyZx9ZZEM,431/73 ซ.สงขลารีสอร์ท ม.8,Basic Package,1,1,7.1312428,100.578718,home,Songkhla,Mueang Songkhla,Phawong,ณณัฏฐวี โปจุ้ย,'0811291952,,real,notCustomer
+MqmFSFZbnZ,มัทนี บ้านเช่า 58/8,Basic Package,7,1,,,home,Pattani,Khok Pho,Makrut,มัทนี ศักดิ์เมือง,'0807206817,,real,notCustomer
+5Z8dkroSSe,Nuclear,Basic Package,10,1,7.37802897689059,99.67337473400633,apartment,Trang,Yan Ta Khao,Yan Ta Khao,ยอดณรงค์ ไชยทวีวงศ์,'0878953245,yodnarong@hotmail.com,real,notCustomer
+on9JiVmRa2,SfUsbai,Basic Package,6,2,,,market,Pattani,Mueang Pattani,Ru Samilae,Itconnects Internet,'0897398206,it-connects@hotmail.com,real,notCustomer
+k65QMThdhC,Arinee Residence,Basic Package,55,5,,,apartment,Pattani,Mueang Pattani,Ru Samilae,ฟาริด อีแต,'0623231221,faridetae@gmail.com,real,notCustomer
+pN8hg420WD,หอพักหญิงปัทมา,Basic Package,31,4,6.8748987922087137,101.23482938404405,apartment,Pattani,Mueang Pattani,Ru Samilae,นูรีซัน ฆอดอ,'0807070802,,real,notCustomer
+JMC2YbNy6B,บ้าน My Balloon,Basic Package,4,2,,,apartment,Pattani,Mueang Pattani,Ru Samilae,Mild Pkd,'0941818353,sumy13111@gmail.com,real,notCustomer
+k8BccKwPSY,K.P.Home,Basic Package,5,2,6.8740256405332731,101.2270935997367,apartment,Pattani,Mueang Pattani,Ru Samilae,กษมา เบ็ญนิปาร์,'0914607714,kasma.ben@gmail.com,real,notCustomer
+iURiNHMcF3,ซอย1,Basic Package,8,3,6.8704207907957242,101.23824300828576,apartment,Pattani,Mueang Pattani,Ru Samilae,มูฮำหมัด กาเซ๋ง,'0848554349,,real,notCustomer
+M9SdqQ1uyY,SF Usbay,Basic Package,6,2,,,apartment,Pattani,Mueang Pattani,Ru Samilae,Itconnects Internet,'0897398206,it-connects@hotmail.com,real,notCustomer
+jNr0IlImxq,Arinee Residance,Basic Package,55,5,,,apartment,Pattani,Mueang Pattani,Ru Samilae,อารีนี เฮ็งปิยา,'0847473300,,real,notCustomer
+zyFAlUMg8m,Aleekinhouse,Basic Package,7,1,,,noBussiness,Songkhla,Singhanakhon,Sathing Mo,Deleted User,',,unreal,notCustomer
+D5BkeTqBnr,หอพักหญิง ปณิตา,Basic Package,5,3,6.8708792999999986,101.2495453,apartment,Pattani,Mueang Pattani,Sabarang,ปณิตา ธรรมรัตน์,'0891979411,aunpan94119411@gmail.com,real,notCustomer
+wa6vD6sEDh,อารียะห์ อพาร์ตเม้นท์ สะเดา,Basic Package,21,3,6.6355848387579046,100.42657624930143,serviceApartment,Songkhla,Sadao,Sadao,Halimah Abdulla,'0914602059,hamahzr27@hotmail.com,real,notCustomer
+8DCuLvuTrO,บ้านพักเรือนไม้หอม,Basic Package,16,1,6.6364833,100.4238366,serviceAp,Songkhla,Sadao,Sadao,วารุณีย์ จารุลักขณา,'0639919663,wrn.jai@gmail.com,real,notCustomer
+N3lQn7dsQY,แฟลตเช่าการเคหะ วงเวียน 3 ยะลา,Basic Package,76,4,,,other,Yala,Mueang Yala,Sateng,สุกัญญา ประเทืองศักดิ์,'0996162553,flatyala99@gmail.com,real,notCustomer
+Fqx5KOXBCG,ศูนย์ไอทีมารวย,Basic Package,30,1,,,other,Yala,Mueang Yala,Sateng,ชุติมา นิยม,'0816110575,mr.ityala@hotmail.com,real,notCustomer
+gc9z9FTvFP,บ้านพัก​วิทยาลัย​เทคนิค​ยะลา​,Basic Package,20,3,6.5447995,101.2853254,university,Yala,Mueang Yala,Sateng,Sport Sasa,'0895981464,nur_esa4@hotmail.com,real,notCustomer
+H0ECTbjBrA,หอส้ม,Basic Package,,1,,,apartment,Yala,Mueang Yala,Sateng,ซอฟียะห์ ปานากาเซ็ง,'0829406285,sofeeyahsmp01@gmail.com,real,notCustomer
+FmCcahaHHQ,บ้านอุตสาหกรรม,Basic Package,50,5,,,apartment,Yala,Mueang Yala,Sateng,Imdalazio Corley,'0866934449,ws_corley@hotmail.com,real,notCustomer
+gzkZaVbtoy,บ้าน 27/11,Basic Package,8,2,,,home,Yala,Mueang Yala,Sateng,สมสกุล อ่องรุ่งเรือง,'0862923555,kulkul5858@gmail.com,real,notCustomer
+HhOrSSY5FH,ศูนย์ไอทีมารวย ยะลา,Basic Package,30,1,,,other,Yala,Mueang Yala,Sateng,ชุติมา นิยม,'0816110575,mr.ityala@hotmail.com,real,notCustomer
+4k4Pzg5UlH,บ้านตรีทิพย์,Basic Package,,1,6.54741625718152,101.29120211995163,apartment,Yala,Mueang Yala,Sateng,จุฑาทิพย์ ลอยทอง,'0847317011,funfun.gal999@gmail.com,real,notCustomer
+ENnwO2KAnI,บ้าน 32/1,Basic Package,9,1,,,home,Yala,Mueang Yala,Sateng,สมสกุล อ่องรุ่งเรือง,'0862923555,kulkul5858@gmail.com,real,notCustomer
+3M0Fo7eOXp,Extra time,Basic Package,128,8,6.5447995,101.2853254,apartment,Yala,Mueang Yala,Sateng,Phuridet Homchan,'0937574403,phuridet.h@yru.ac.th,real,notCustomer
+AliCBtQL3m,วิภากุลอพาร์ตเมนต์,Basic Package,32,5,6.5535530585465347,101.2854688981823,underDevelop,Yala,Mueang Yala,Sateng,Pakdee Jaijong,'0814960305,pakdeevasime@gmail.com,unreal,notCustomer
+K66DLyWut3,13 กรกฏา,Basic Package,12,1,30.258140199835321,95.338406972587123,market,Yala,Mueang Yala,Sateng,พัชริศา ศาสตร์ทยารัฐ,'0902258417,patchrisa.32@gmail.com,real,notCustomer
+Nu9PFEu2j1,หอพักนักศึกษามหาวิทยาลัยราชภัฏยะลา อาคาร A,Basic Package,125,8,6.5447995,101.2853254,apartment,Yala,Mueang Yala,Sateng,มูฮัมมัดอณุวาห์ เจ๊ะมะ,'0952570009,muhammadanuwa.c@yru.ac.th,real,notCustomer
+E71LTrv9uY,NEW DREAM SERVICE APARTMENT,Basic Package,15,4,,,serviceAp,Yala,Mueang Yala,Sateng,ONE PLUS,'0899761142,,real,notCustomer
+igNpvbQDN2,รอฮมาณี,Basic Package,30,2,,,apartment,Yala,Mueang Yala,Sateng Nok,รอฮมาณี Rahmani,'0650577587,,real,notCustomer
+d5gvejinRC,หอพักรอฮมาณี,Basic Package,37,5,6.5474029,101.2995006,apartment,Yala,Mueang Yala,Sateng Nok,Hakimee Samalee,'0805985644,hakimisamalee@gmail.com,real,notCustomer
+3uPMJpWK6Z,๋JDA Place,Basic Package,54,5,6.5872101,100.383479,apartment,Songkhla,Sadao,Samnak Kham,นางสาวจิระพันธ์ เอี่ยมเซี่ยม,'0887923191,newjdahotel@gmail.com,real,notCustomer
+XRgB2vxUK2,M SOHO ตึก F,Basic Package,72,7,6.5872101,100.383479,hotel,Songkhla,Sadao,Samnak Kham,ธนวิชญ์ ต้นกันยา,'0835455922,first36318@gmail.com,real,notCustomer
+bgCT4rYKBc,VOUK ตึก B,Basic Package,72,6,6.5872101,100.383479,hotel,Songkhla,Sadao,Samnak Kham,ศิริศิลป์ พุมดวง,'0620724091,phumdaungsirisin@gmail.com,real,notCustomer
+olCrFvo7AT,ฟลอริด้า เฮาส์,Basic Package,36,2,6.5541956,100.4173453,serviceApartment,Songkhla,Sadao,Samnak Kham,Gam Sawikun,'0833287272,phinyapat252518@gmail.com,real,notCustomer
+rMe8EC6xNh,พรพรรณแมนชั่น,Basic Package,26,5,6.5255940731645863,100.4188296943903,apartment,Songkhla,Sadao,Samnak Kham,Phornpan J,'0980163326,iamatun@hotmail.com,real,notCustomer
+xzESpt4Wz4,The wai,Basic Package,43,3,6.5872101,100.383479,hotel,Songkhla,Sadao,Samnak Kham,ศิริศิลป์ พุมดวง,'0620724091,phumdaungsirisin@gmail.com,real,notCustomer
+q4RuAzOCu0,Room Services,Basic Package,8,4,6.53023418949625,100.41580120240303,serviceApartment,Songkhla,Sum Nung Kam,Sumnak Kham*,ซะกะริยา พิรุอาลี,'0869536161,meenacharean1999@gmail.com,real,notCustomer
+CXCXNszE5H,Room Services,Basic Package,8,4,6.5302224543351635,100.41582095971091,serviceApartment,Songkhla,Sum Nung Kam,Sumnak Kham*,ซะกะริยา พิรุอาลี,'0869536161,meenacharean1999@gmail.com,real,notCustomer
+pjArYbzXaI,999/22,Basic Package,9,3,,,apartment,Songkhla,Sum Nung Kam,Sumnak Kham*,Prajak Thaidamrong,'0872966656,,real,notCustomer
+poacCSPiQp,ดูดีอพาร์ตเมน,Basic Package,30,5,6.0229487962952186,101.96392793208362,apartment,Narathiwat,Su-ngai Kolok,Su-ngai Kolok,นภสร เซี่ยงหว่อง,'0888315150,napasorntar17@gmail.com,real,notCustomer
+VhyUhHv2CU,หอพักคลองเรียน,Basic Package,23,4,6.9999488756965045,100.48907350015853,apartment,Songkhla,Hat Yai,Hat Yai,พรธิดา พุฒิแพทย์,'0629244585,kifzii.mini@gmail.com,real,notCustomer
+HtC46xzfA3,แฮปปี้เพ็ท,Basic Package,8,3,7.0206727484208,100.47660266942991,apartment,Songkhla,Hat Yai,Hat Yai,พนิดา แซ่ลิ่ม,'0973467529,,real,notCustomer
+ER8TXsZ4xT,ไออุ่น อาพาร์ทเม้นท์,Basic Package,24,5,,,apartment,Songkhla,Hat Yai,Hat Yai,วุฒิชัย พันธุ์บุตร,'0884649006,,real,notCustomer
+Nghl0q3zqM,ศักดิ์ชายแมนชั่น,Basic Package,92,7,,,apartment,Songkhla,Hat Yai,Hat Yai,Lek Jitsakulchaidej,'0618295665,lek_noi2009@hotmail.com,real,notCustomer
+yczbwa3MJa,Stay @Home,Basic Package,12,5,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,Annita Chawa,'0986466916,anothai_ae@yahoo.com,real,notCustomer
+xUS2qEBH8N,WS Resident,Basic Package,,2,7.0086472,100.4746879,serviceApartment,Songkhla,Hat Yai,Hat Yai,วิบูลศักย์ สุวรรณธนากร,'0836911954,wiboonsak.suw@gmail.com,unreal,notCustomer
+0bAkyiEcHc,winner,Basic Package,17,3,,,apartment,Songkhla,Hat Yai,Hat Yai,ธนพงศ์ สุวรรณนิตย์,'0864959284,,real,notCustomer
+EVjknMOi3I,ศรีมณีอพาร์ทเมนท์2,Basic Package,52,7,7.0012994694288224,100.4902257397771,apartment,Songkhla,Hat Yai,Hat Yai,Pannee Chukamnerd,'0897353381,sripannee@hotmail.com,real,notCustomer
+fShwaA8t7J,ธีรพงศ์,Basic Package,7,3,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,ธีรพงศ์ ประทุมชาติภักดี,'0869666019,teahva@gmail.com,real,notCustomer
+08KqM8CVaF,silverhouse,Basic Package,30,4,7.005538019391091,100.48044137656689,apartment,Songkhla,Hat Yai,Hat Yai,Slindong Lee,'0957261791,lee_elec351@yahoo.co.th,real,notCustomer
+YfOSmS9lGW,พิมชนา,Basic Package,11,4,7.0174798450781006,100.4935734977385,apartment,Songkhla,Hat Yai,Hat Yai,""" ทองขาว"" ทองใหญ่",'0972923552,thongkhao6@hotmail.com,unreal,notCustomer
+BFqQkzOENe,ซ.19 รัตน์อุทิศ,Basic Package,5,3,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,พีระวัฒน์ เพชรแก้ว,'0896555777,,real,notCustomer
+eYBPTaFAOr,สุภานีเพลส หาดใหญ่,Basic Package,20,1,7.0441492224498781,100.43289184570314,apartment,Songkhla,Hat Yai,Hat Yai,คมชาญ สัตตหิรัญ,'0917718802,sattahirun@gmail.com,real,notCustomer
+8CaP5zG1Yd,อิงธารา หาดใหญ่,Basic Package,68,4,,,apartment,Songkhla,Hat Yai,Hat Yai,Jane Pass,'0810913629,janewit.jp@gmail.com,real,notCustomer
+vPNTxNADVM,Makan,Basic Package,9,3,,,apartment,Songkhla,Hat Yai,Hat Yai,ทรงชัย บัวแดง,'0828447080,,real,notCustomer
+5ifEfMTLvt,บ้านเช่า (central festival hatyai),Basic Package,1,1,,,apartment,Songkhla,Hat Yai,Hat Yai,prachyawat roctjanamongkol,'0985419155,,real,notCustomer
+lu4AVzV4vl,brook,Basic Package,20,3,7.0086472,100.4746879,hotel,Songkhla,Hat Yai,Hat Yai,Kanun Thaveerat,'0656951965,muttawe_kanun@hotmail.com,real,notCustomer
+ks1LXUEDFY,อันทารา อพาร์ทเม้นท์,Basic Package,5,5,,,apartment,Songkhla,Hat Yai,Hat Yai,แอดมิน5 -,'0649397946,trantai.2550@gmail.com,real,notCustomer
+OHzFFsCgYv,บ้านขุมเงิน,Basic Package,8,5,7.0166944919822463,100.47366142272949,apartment,Songkhla,Hat Yai,Hat Yai,Deleted User,',,unreal,notCustomer
+AyH6X37tue,AA view,Basic Package,36,1,7.005617552150075,100.46941280364992,serviceApartment,Songkhla,Hat Yai,Hat Yai,นาย อมรเชษฐ์ ภัทรกิจนิรันดร์,'0897334396,tan2495@hotmail.com,real,notCustomer
+Av5EinwO9l,ชื่นสุข อพาร์ทเมนท์,Basic Package,27,4,,,apartment,Songkhla,Hat Yai,Hat Yai,กันตินันท์ แก้วหนู,'0824372434,,real,notCustomer
+VCk9DblXlO,หอเหลือง7ชั้น,Basic Package,36,7,,,apartment,Songkhla,Hat Yai,Hat Yai,สุวรีย์ เศรษฐวัฒน์บำรุง,'0869594455,,real,notCustomer
+QbHEXC9TCt,จันทร์เจ้าแมนชั่น,Basic Package,14,2,,,apartment,Songkhla,Hat Yai,Hat Yai,วรรณวิสา ศรีเกตุ,'0804983437,nanny.only_u@hotmail.com,real,notCustomer
+az9Q03jjyk,SIAM-VILLA,Basic Package,58,5,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,PINSUDA Chutiphatthana,'0945933360,noknok.nk@hotmail.com,real,notCustomer
+3WE8CNIGpj,บจก.เดอะวันซาซูน่า,Basic Package,24,4,,,apartment,Songkhla,Hat Yai,Hat Yai,บจก. เดอะวันซาซูน่า,'0997755198,,real,notCustomer
+nEc9a5wWja,เกียรติคุณ,Basic Package,40,4,,,apartment,Songkhla,Hat Yai,Hat Yai,Sontipong Jinnakun,'0828274276,,real,notCustomer
+D9ElW2Pe5C,TW,Basic Package,35,7,,,apartment,Songkhla,Hat Yai,Hat Yai,อัจจิมา เฟื่องฟู,'0954956941,,real,notCustomer
+97wAuQjPyQ,เพชรแมนชั่น,Basic Package,38,4,,,apartment,Songkhla,Hat Yai,Hat Yai,สุมาลี แซ่ลิ่ม,'0891650564,,real,notCustomer
+AOBAH09Fg8,ปายแมนชั่น,Basic Package,40,4,,,apartment,Songkhla,Hat Yai,Hat Yai,Arporn Sukmee,'0897370757,,real,notCustomer
+qtvgmrwDMQ,Napalai Place Condominium,Basic Package,28,47,6.9993826751403079,100.48061908693352,undefined,Songkhla,Hat Yai,Hat Yai,wichuta kositpantawong,'0887870062,ccp.condominium@hotmail.com,real,notCustomer
+rjcEcmK9U3,THAIWEB,Basic Package,20,2,,,apartment,Songkhla,Hat Yai,Hat Yai,สุทาวดี สิงคาร,'0895893696,,real,notCustomer
+anyzNMgAk3,หอสีชมพู,Basic Package,10,2,6.96583325,100.43005535316902,apartment,Songkhla,Hat Yai,Hat Yai,Suchada Kabkingkaew,'0659635942,nongpump@hotmail.com,real,notCustomer
+3w9gThe9U2,วารีเพลส,Basic Package,28,5,,,apartment,Songkhla,Hat Yai,Hat Yai,Hathaithip Wareekun,'0915523841,,real,notCustomer
+Cojx4VsCDq,แฟลตคุณห่วง,Basic Package,21,3,6.9985916624245412,100.47573208808899,apartment,Songkhla,Hat Yai,Hat Yai,ธีรดา คัตตพันธ์,'0828395025,,real,notCustomer
+v4GLPgwGIE,HASU GUESTHOUSE,Basic Package,5,3,,,apartment,Songkhla,Hat Yai,Hat Yai,phatsarin siriittiwong,'0817661781,,real,notCustomer
+Kp6p8dN16p,The 1 place hatyai,Basic Package,66,7,,,apartment,Songkhla,Hat Yai,Hat Yai,สรพงษ์ ฮวบดี,'0897797658,,real,notCustomer
+gHvgQw5aoo,บ้าน3N,Basic Package,3,1,,,apartment,Songkhla,Mueang Songkhla,Ko Yo,พงษ์นภัส ชูช่วย,'0615302525,,real,notCustomer
+UXp310RhBe,Phusambigresort,Basic Package,12,1,,,hotel,Trang,Kantang,Ko Libong,บิ๊ก สบาย,'0835046782,bigtrangthai@yahoo.com,real,notCustomer
+oOtZ6LODdp,บ้านเช่าเราะห์มะฮ์,Basic Package,6,2,7.1281267240948454,100.64044419676065,office,Songkhla,Mueang Songkhla,Ko Taeo,Abdulkadir Pholsaad,'0980519674,abdulkadirpholsaad@gmail.com,unreal,notCustomer
+2dOCa77AAB,หอพัก PFP,Basic Package,,1,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,อิบรอเฮม กายียุ,'0973489959,aibrohem.songkhla@gmail.com,real,notCustomer
+r5DxPm6GkG,JP,Basic Package,39,5,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,อภิรุณ รัตโนดม,'0815993755,apirun@live.com,real,notCustomer
+kYEPYRFzLc,พลาสินธ์ุ,Basic Package,10,2,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,อังคณา ถาวรสิน,'0816904695,Oangkana.1986@gmail.com,real,notCustomer
+h7Eka93I2R,หอพักหญิง P&P Apartment,Basic Package,44,14,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,สาธิต ธรรมประดิษฐ์,'0819592529,,real,notCustomer
+Z0ZsCEucq6,ลิณีวาลีโฮม,Basic Package,31,4,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Jakapong Tepaya,'0828309696,,real,notCustomer
+RkzBBzPjrw,หอพักบ้านพิจิตสุวรรณ,Basic Package,42,5,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ปนัดดา สุวรรณศรี,'0971536365,,real,notCustomer
+RwED9Tlk8e,ชูจิต แมนชั่น,Basic Package,54,1,6.8790221,100.5498542,serviceApartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Mathawee Laksanapong,'0828347374,laksanapongmathawee@gmail.com,real,notCustomer
+V9RFU7ljEV,บริษัท ปฐมทิพย์ พัฒนา จำกัด,Basic Package,6,6,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ถนัดกิจ แก้วคง,'0612284058,,real,notCustomer
+FTza0BSBfd,G-Shirt,Basic Package,3,1,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Tanawat Peankhong,'0954388339,,real,notCustomer
+YcIhMnqz7Z,สุขสบาย,Basic Package,6,1,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,รติ ราชปรีชา,'0839793379,ratiporn88@gmail.com,real,notCustomer
+3AAAoTL9t2,บ้านเจริญผล แมนชั่น,Basic Package,73,5,7.1704883150209477,100.61147126081313,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Admin FHY,'0896537853,,real,notCustomer
+D1wTEk3FCS,หอพักหญิงสินสุ​ธน​แมนชั่น,Basic Package,30,4,7.1624691547572468,100.60396447777748,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,เอ บี,'0936058872,,real,notCustomer
+46Yv1dva20,GShirt,Basic Package,6,1,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Tanawat Peankhong,'0954388339,,real,notCustomer
+Zjuh0RFIRW,เครื่องเขียน,Basic Package,10,3,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ภีม สัมพันธรัตน์,'0980148664,peam.sptr@gmail.com,real,notCustomer
+PUUj5Bi7DD,หอพักบ้านดลพร,Basic Package,24,4,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,กีรติกาญจน์ โศภาพัทรวิชญ์,'0910464578,,real,notCustomer
+2HDkXBbXle,ส่วนกลาง wsotel A/B 8.7.66,Basic Package,,19,,,serviceApartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Wsotel/LV Apartment,'0993695551,atchar@hotmail.com,real,notCustomer
+c2UVCAFEFe,บ้านอุ่นรัก,Basic Package,19,4,,,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Auttaphon Theppaya,'0857972309,autta_decor@hotmail.com,real,notCustomer
+PMeCWVZOXV,หอพักอุบล,Basic Package,5,1,7.1711711711711708,100.60680263531488,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ณัฐ​พงษ์​ ช่วยแท่น,'0863064281,beer.ruktuaang@gmail.com,real,notCustomer
+AbrczVFSOF,วินเรืองสุขอพาร์ทเมนท์,Basic Package,54,5,7.1723201037924147,100.59401281177996,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Jeff Sadsawat Sasipisuth,'0913171182,jeff141139@gmail.com,real,notCustomer
+o31Vtsg6ui,หอพักลุงแบน (นายสานิต  ช่วยชูวงศ์),Basic Package,10,1,7.1549293574239536,100.59914521872997,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,สานิต (ลุงแบน) ช่วยชูวงศ์,'0821618622,tawin.chu30@gmail.com,real,notCustomer
+YKJnY3ZovM,Roommate Apartment,Basic Package,23,4,7.1580384369771481,100.60655180364847,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,Kulavee Phanumphai,'0803366360,kunlavee.royce97@hotmail.com,real,notCustomer
+FNVhhQ9nAy,ครัวเจ๊ะเห รีสอร์ท,Basic Package,24,2,6.249053560813965,102.03718408942223,hotel,Narathiwat,Tak Bai,Chehe,ณัฐชนน ศรีสังข์,'0982638490,nachanon2542@gmail.com,real,notCustomer
+NHxjD16fyz,หอพัก,Basic Package,19,4,,,apartment,Yala,Betong,Betong,Jarndee Khaow,'0811738466,jksabuyjai@gmail.com,real,notCustomer
+a4fctCMSaB,Mha,Basic Package,4,1,5.7753354518892639,101.07181984931231,apartment,Yala,Betong,Betong,Mha EN,'0848541780,mha-en@hotmail.com,real,notCustomer
+MokZCEPm6r,จินโบ,Basic Package,8,2,5.7724263429054954,101.06613993644716,apartment,Yala,Betong,Betong,อมรธัช ปัญญาอภัยวงศ์,'0824316406,,real,notCustomer
+rORInsPnlk,34house,Basic Package,3,1,,,hotel,Yala,Betong,Betong,โชติกา ตันตยาพงศ์,'0814547350,khim2520@gmail.com,unreal,notCustomer
+LRGYdTxMNO,Betong​ hill,Basic Package,15,2,,,apartment,Yala,Betong,Betong,วุฒิชัย รัตน์น้อย,'0945929499,,real,notCustomer
+GCAR5ohX1P,ภักดี,Basic Package,2,1,7.5213218000000008,99.61865259999999,apartment,Trang,Mueang Trang,Khok Lo,ภักดี พิทยา,'0807181644,pukdeerakthai@gmail.com,real,notCustomer
+NHJ979CTaO,SA-ME,Basic Package,25,3,,,apartment,Narathiwat,Mueang Narathiwat,Khok Khian,ภัณฑิรา แก้วสังข์,'0942989994,,real,notCustomer
+cYNYmbCKWf,Sea Sleep Bech homestay&poolvilla,Basic Package,6,1,6.5355736010483634,101.75168069552117,hotel,Narathiwat,Mueang Narathiwat,Khok Khian,บุรฮาน แวเด็ง,'0849988080,burhanwaedeng19601@gmail.com,unreal,notCustomer
+VFcyW21VIP,หอพักพราวตะวัน,Professional Package (Trial),25,4,,,unReachable,Songkhla,Hat Yai,Kho Hong,ทรรศนวรรณ สุวรรณโณ,'0625194594,tassanavan2544@icloud.com,undefined,notCustomer
+unc5CGAIQQ,บ้านเชค,Basic Package,11,3,6.8708792999999986,101.2495453,apartment,Pattani,Mueang Pattani,Sabarang,มูฮัมหมัดฟัยรุซ นิเฮ,'0828262939,muhammadfairuz1993@gmail.com,real,notCustomer
+AFX595wANi,City resort pasawang,Basic Package,,1,,,other,Songkhla,Hat Yai,,PIYACHET NOOIN,'0853591474,pharmpiyachet@gmail.com,unreal,notCustomer
+9Dd12McNGi,ทั่วไป,Basic Package,,1,,,unReachable,Songkhla,Singhanakhon,,อนันต์ แหละตี,'0620781207,infinite2456y@gmail.com,unreal,notCustomer
+FKKJsr2S01,วลัยลักษณ์,Basic Package,10,2,,,unReachable,Phatthalung,Pa Phayom,,นางสาววลัยลักษณ์ แสงจันทร์,'0849736940,panddmobile606@gmail.com,unreal,notCustomer
+kna58BrxIH,Wp,Basic Package,60,7,,,undefined,Songkhla,Hat Yai,,สุรี หงส์ทอง,'0896558885,,unreal,notCustomer
+10aibOVpr4,ร้านขายเสื้อผ้ามือ2,Basic Package,,1,,,noBussiness,Songkhla,Chana,,อภิชาติ หมันแะ,'0630804091,Apichat567@gmail.com,unreal,notCustomer
+2HqQyAyb2m,หอพักรายเดือน MOOD 32,Basic Package,,1,,,unReachable,Narathiwat,Mueang Narathiwat,,อนุชัย มากมี,'0948065441,6310013805031@ncc.ac.th,unreal,notCustomer
+tG2ihY7aqz,มันนา,Professional Package (Trial),,1,,,noBussiness,Trang,Mueang Trang(Krong Teng)**,,อายา มานัน,'0660803756,xciiixcv@gmail.com,unreal,notCustomer
+v9k4Zc82eJ,อพาร์ทเม้นท์ปู่ย่า,Basic Package,54,6,7.1897657368047376,100.59538140892982,serviceApartment,Songkhla,Hat Yai,,Plern Duangnapa,'0653596197,duangnapa.r@hotmail.com,unreal,notCustomer
+WqBywwVZvu,ppapartment,Basic Package,20,2,,,undefined,Phatthalung,Mueang Phatthalung,,Pungpung Jomjan,'0918890857,,unreal,notCustomer
+ZQrHxallq5,Lee chein,Basic Package,,1,,,noBussiness,Songkhla,Sadao,,Chein Lee,'0913942999,nabuchi0101@gmail.com,unreal,notCustomer
+maUoHPnPDn,ADP Manchan,Basic Package,,1,,,noBussiness,Songkhla,Singhanakhon,,karntima Longsalam,'0623267005,hlngslakantima@gmail.com,unreal,notCustomer
+e874T1arhI,นายวิชาญ,Basic Package,,1,,,unReachable,Phatthalung,Tamot,,นายวิชาญ มากเล่ง,'0643488346,wichanmaklang162@gmail.com,unreal,notCustomer
+JtP9H2bmei,บ้านเหลือง โครงการ1,Basic Package,4,1,,,unReachable,Yala,Mueang Yala,,บุซรอย์ อับดุลการี,'0860139001,busra.abkr1@gmail.com,unreal,notCustomer
+A6ZFnyqCMi,M village block A,Basic Package,,1,,,noBussiness,Songkhla,Sadao,,ณิชากร มาเยอ,'0654022110,nichakorn6342@gmail.com,unreal,notCustomer
+GGiLpYpGft,TS,Basic Package,37,5,7.5084744,99.5434989,apartment,Trang,Mueang Trang,,อนงค์ ศรีสวัสดิ์จันทร์,'0959257813,unpattrawan159@gmail.com,unreal,notCustomer
+gPCBM5vWuF,ดำรงณ์ กั้วมาลา,Basic Package,,1,,,noBussiness,Songkhla,Hat Yai,,ดำรงณ์ กั้วมาลา,'0883895519,darngnkawmala@gmail.com,unreal,notCustomer
+ygeTfEnBQ3,นิว,Basic Package,2,1,,,undefined,Trang,Mueang Trang,*Na Meun Sri,ศิริพงษ์ วิชิตเชื้อ,'0620891772,,unreal,notCustomer
+9faxl3yTq5,WungView,Basic Package,32,2,,,undefined,Songkhla,Sathing Phra,Kradangnga,Thipphavanh Keola,'2091979748,thipphavanh.keola@gmail.com,unreal,notCustomer
+Ri4I91B57f,บ้านเช่าในหมู่บ้านกระเสาะ,Basic Package,,1,,,undefined,Pattani,Mayo,Kra So,มะยาฆี หะยีมะลี,'0901216312,,unreal,notCustomer
+mVraOwyBFt,ARABE,Basic Package,47,1,,,undefined,Pattani,Mueang Pattani,Kamiyo,Tharinthorn Klinsup,'0917084007,lce_ecl@hotmail.com,unreal,notCustomer
+a5a6QbG61H,wsf,Basic Package,30,1,,,undefined,Pattani,Kapho,Karubi,มีสลึงพึ่งบรรจบ ให้ครบบาท,',asdfghjkl000007@hotmail.com,unreal,notCustomer
+0hi2sphok2,กรีนวิว,Basic Package,10,1,6.4078617,101.8549588,apartment,Narathiwat,Mueang Narathiwat,Kaluwo Nuea,Jirawan Pensuk,'0993605851,mariongould05624@outlook.com,unreal,notCustomer
+PoHvguA2V6,แฟลต2,Basic Package,18,1,,,undefined,Yala,Raman,Kayu Boko,นางสาวยุวธิดา คงนุมัติ,'0937136041,,unreal,notCustomer
+WGvtUVqbSe,บ้านเกศินี,Basic Package,,1,,,undefined,Songkhla,Ranot,Khlong Daen,เกศินี หนูแก้ว,'0810966663,,unreal,notCustomer
+I91M34TLRt,การเคหะ คลองแห,Basic Package,1,1,7.1813997669300473,100.59246651828289,apartment,Songkhla,Hat Yai,Khlong Hae,Tangmo Khanarat,'0986716298,boonnapat_tang@hotmail.com,unreal,notCustomer
+8QQtiyYRvx,AJAhome,Basic Package,9,1,,,undefined,Songkhla,Hat Yai,Khlong Hae,เอกฉันท์ บุญรัศมี,'0870197999,,unreal,notCustomer
+bA6miWVTXV,DM House,Basic Package,1,1,7.0426363525596374,100.46844720840454,noBussiness,Songkhla,Hat Yai,Khlong Hae,มินฟะ หะมาหะมะ,'0883961667,sawmindizz@hotmail.com,unreal,notCustomer
+HZ7saiAuBy,สุธาทิพย์ ริมถนน,Basic Package,1,1,,,undefined,Songkhla,Hat Yai,Khlong Hae,พงศ์ภัค อ่อนศรีทอง,'0832807819,,real,notCustomer
+NwhNQiRvCN,Boyzy0002,Basic Package,15,3,7.4908777089335521,100.06548844794919,apartment,Phatthalung,Khao Chaison,Khuan Khanun,ชญานนท์ หมวดสง,'0996167336,chayanon254436@gmail.com,unreal,notCustomer
+8PuRBX1FjZ,ICM0020,Basic Package,21,5,7.5114570161576006,99.618129109167455,apartment,Trang,Mueang Trang,Khuan Pring,สกาวรัตน์ ตุลาธน,'0644791885,6350110020@psu.ac.th,unreal,notCustomer
+S970kirNgP,ICM0017,Basic Package,12,3,7.52214683759119,99.574376915716527,apartment,Trang,Mueang Trang,Khuan Pring,ศรายุธ สิทธิเดช,'0864977945,6350110017@psu.ac.th,unreal,notCustomer
+yEaHC5Fspg,หอพัก มอ.,Basic Package,8,2,7.5226126952738843,99.574947729706778,apartment,Trang,Mueang Trang,Khuan Pring,Sarayut Sidtidet,'0963919014,rtyhoobkk@gmail.com,unreal,notCustomer
+Q876riDenl,ICM0020,Basic Package,10,2,,,apartment,Trang,Mueang Trang,Khuan Pring,สกาวรัตน์ ตุลาธน,'0644791885,6350110020@psu.ac.th,unreal,notCustomer
+1Tcv22t2NF,ABC,Basic Package,8,2,7.5183176780762322,99.5789473998779,apartment,Trang,Mueang Trang,Khuan Pring,Anis Salaeh,'0987104202,qniiz.45883@gmail.com,unreal,notCustomer
+LQUmVCyVtQ,หอพัก The Light โดย ชีวัน,Basic Package,48,4,,,undefined,Trang,Mueang Trang,Khuan Pring,ชนิดาภา แซ่เหลียว,'0848473104,,unreal,notCustomer
+3ntofEMTNy,ICM0019,Basic Package,12,3,7.52138100839092,99.572767590307592,apartment,Trang,Mueang Trang,Khuan Pring,ศุภณัฐ อักษรสิทธิ์,'0819708917,6350110019@gmail.com,unreal,notCustomer
+x4uajWDgMK,ICM 0012,Basic Package,8,2,7.5181474924248661,99.579204891943334,apartment,Trang,Mueang Trang,Khuan Pring,นุชนาฎ วิริยะภูรี,'0824348280,6350110012@psu.ac.th,unreal,notCustomer
+bFyQQ6ufCO,0012 นะจ๊ะ,Basic Package,12,3,7.5184453172710022,99.57881865384519,apartment,Trang,Mueang Trang,Khuan Pring,นุชนาฎ วิริยะภูรี,'0824348280,6350110012@psu.ac.th,unreal,notCustomer
+4TjFLDUQFJ,6350110003,Basic Package,10,2,7.5176794815396537,99.578432415747045,apartment,Trang,Mueang Trang,Khuan Pring,ณภัสสรณ์ การเรียบ,'0985136450,6350110003@email.psu.ac.th,unreal,notCustomer
+dxx8lfGGzN,6350110025,Basic Package,25,5,7.5555266,99.614258499999991,apartment,Trang,Mueang Trang,Khuan Pring,สืบสกุล คงฉาง,'0987099058,6350110025@psu.ac.th,unreal,notCustomer
+BKiTSZ6uYh,6350110004,Basic Package,12,3,7.5182325852588887,99.578775738500951,apartment,Trang,Mueang Trang,Khuan Pring,ณัฐชนน มณียม,'0993296916,,unreal,notCustomer
+UVMe6xBGTF,หอร่มเย็น,Basic Package,8,2,7.5186580491787938,99.5789473998779,apartment,Trang,Mueang Trang,Khuan Pring,Onin Wansoo,'0633896433,onin.wansoo.2000@gmail.com,unreal,notCustomer
+Z4mAHULxAw,ปูเป้ บ้านสวน,Basic Package,5,1,7.5867805750776585,100.11693667620422,other,Phatthalung,Mueang Phatthalung,Khuan Maphrao,สุกัญญา ฤทธิสุนทร,'0869997099,pupaecutiess@gmail.com,real,notCustomer
+tzcbW1NbzI,pp,Basic Package,8,3,,,undefined,Songkhla,Hat Yai,Khuan Lang,Tanattida Kaewwangsakool,'0623542236,tanat_da@hotmail.com,unreal,notCustomer
+UKiIHy1JM5,สามพี่น้อง,Basic Package,53,6,,,undefined,Songkhla,Hat Yai,Khuan Lang,Jone Sonibi,'0833844493,abcd.abcd.cccc@gmail.com,unreal,notCustomer
+O9XOi4QMOc,ควนลังแมนชั่น2 บ้านยายกลิ่น,Basic Package,,2,6.988338100273161,100.39858773155215,undefined,Songkhla,Hat Yai,Khuan Lang,Nongkran Thammaphet,'0887842275,nongkranpai@gmail.com,unreal,notCustomer
+Zb2c63OE92,Guide Apartments,Basic Package,14,4,6.9741935248360765,100.42214081502381,noBussiness,Songkhla,Hat Yai,Khuan Lang,สหัสวรรษ มุสิกะ,'0903316366,,unreal,notCustomer
+bFuzu2B9Ff,anuchit,Basic Package,1,1,7.9291497,99.638689,noBussiness,Trang,Ratsada,Khuan Mao,อนุชิต กลิ่นชื่น,'0915996976,anuchit.kl@psru.ac.th,unreal,notCustomer
+UQJbLvY8lN,THE KOR,Basic Package,55,6,7.0293468999999993,100.4915171,serviceApartment,Songkhla,Hat Yai,Kho Hong,กรรณิการ์ ธีระกิตติ์ธนากุล,'0898761123,kwantheera@gmail.com,unreal,notCustomer
+UxVJjh5EoP,หอทดลอง,Basic Package,40,8,6.9994525584037071,100.46320348978043,undefined,Songkhla,Hat Yai,Kho Hong,ธนวัตร์ ชื่นสกุลวงศ์,'0832292299,iqcang@hotmail.com,unreal,notCustomer
+GcHrvKtw8X,บ้าน บ ใบไม้,Basic Package,35,2,,,undefined,Songkhla,Hat Yai,Kho Hong,กิตติ นิชรานนท์,'0818971416,,unreal,notCustomer
+fhVaSIMPhB,สินธร แมนชั่น,Basic Package,176,1,,,undefined,Songkhla,Hat Yai,Kho Hong,วิบุล สินธทียากร,'0819383878,,unreal,notCustomer
+5NDpUYFCH1,บ้านณนา,Basic Package,21,1,6.98868995171988,100.47563509768941,unReachable,Songkhla,Hat Yai,Kho Hong,Nana Saekoo,'0885102400,,unreal,notCustomer
+K3P8ulU82u,Nothai,Basic Package,40,4,,,undefined,Songkhla,Hat Yai,Kho Hong,Teerapat Sinsap,'0612649230,man@pupasoft.com,unreal,notCustomer
+X8AN8O1ESN,ฺิิิิิBlaky Hotel,Basic Package,20,3,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Kho Hong,กัญญาวีร์ ห่อทอง,'0807059286,,unreal,notCustomer
+EEbRZhC6Wn,ศรีดาแมนชั่น,Basic Package,50,5,,,undefined,Songkhla,Hat Yai,Kho Hong,นางาวชนิกานต์ เพชรขำ,'0872925374,,unreal,notCustomer
+2B8eAnMFsC,Airport,Basic Package,3,1,,,undefined,Songkhla,Hat Yai,Kho Hong,Prajak Thaidamrong,'0991959529,,unreal,notCustomer
+lzuKIDbm6r,รุ่งรัศมีอพาร์ทเม้นท์,Basic Package,30,4,6.9940877954166263,100.50830899423684,apartment,Songkhla,Hat Yai,Kho Hong,อรุโณทัย ทวีรัตน์,'0994097366,arunothai.kwang@gmail.com,unreal,notCustomer
+6Pl3XJBvPF,The best condominium,Basic Package,4,7,,,undefined,Songkhla,Hat Yai,Kho Hong,ณัฐวุฒิ แก้วจุรัตน์,'0982480999,nutsouthern@hotmail.com,unreal,notCustomer
+gbtrDMfnR7,prosperous residence,Basic Package,10,2,7.0086472,100.4746879,serviceApartment,Songkhla,Hat Yai,Kho Hong,ปวริศ ทองแกมนาก,'0622438333,thxngkae.c3000@gmail.com,unreal,notCustomer
+qs2kzJecTt,บ้านศยารัตน์,Basic Package,8,4,6.9996595459129471,100.50034380045227,unReachable,Songkhla,Hat Yai,Kho Hong,ตรัยรัตน์ จันทรัตนะ,'0632304571,rty33ho@gmail.com,unreal,notCustomer
+WNDlJU1Jpp,SP Residence,Basic Package,37,4,7.0293468999999993,100.4915171,apartment,Songkhla,Hat Yai,Kho Hong,อธิกัญญ์ภัค แซ่ภู่,'0642469064,jinjutacat1@gmail.com,unreal,notCustomer
+HVBBtX6jij,วรันศพล แมนชั่น,Basic Package,27,3,,,unReachable,Songkhla,Hat Yai,Kho Hong,ทรงพล อรัญดร,'0874316681,jsongarun@gmail.com,unreal,notCustomer
+nV4O8IhsQz,หอพักนักศึกษา,Basic Package,2226,1,7.0074644,100.4689889,university,Songkhla,Hat Yai,Kho Hong,วริศรา โสรัจจ์,'0845875152,warissorat@gmail.com,unreal,notCustomer
+6EaYwmJSGf,พฤกษา,Basic Package,66,8,7.0293468999999993,100.4915171,apartment,Songkhla,Hat Yai,Kho Hong,สหภาพ สหรัก,'0613938067,narawit_scoobydoo@hotmail.com,unreal,notCustomer
+vB7CFCtBhV,ไทซีฮี้ แมนชั่น,Basic Package,7,3,7.0289167380167319,100.48512015491724,apartment,Songkhla,Hat Yai,Kho Hong,สุวิมล แซ่ลู่,'0937432772,lyleng1@hotmail.com,unreal,notCustomer
+6WCuca4mwZ,SP Residence Hatyai,Basic Package,77,7,6.9930918074658832,100.49926579188323,serviceApartment,Songkhla,Hat Yai,Kho Hong,กานต์ พรหมมาต,'0941439585,karn10_kannasoot@hotmail.com,unreal,notCustomer
+VD0FCLup99,บ้านสวนอพาร์ตเมนต์,Basic Package,,1,7.0293468999999993,100.4915171,serviceApartment,Songkhla,Hat Yai,Kho Hong,GW Fern Krimjai,'0862999966,eedgnojkam@hotmail.com,unreal,notCustomer
+82x8UeJ4br,the great mansion,Basic Package,29,4,7.6161411916772908,100.08122471714222,apartment,Phatthalung,Mueang Phatthalung,Khuha Sawan,AMNUAYPORN  chaowakul,'0816909427,narin17190@gmail.com,unreal,notCustomer
+nVIKdQlccq,GIFT,Basic Package,18,3,7.4905865,100.4143479,noBussiness,Songkhla,Sathing Phra,Chathing Phra,กิฟท โขมพัฒน์,'0649289393,chagiftkhommaphut@gmail.com,unreal,notCustomer
+Wj5lv8aFgV,HARIS,Basic Package,92,2,6.8678170000000014,101.2501995,apartment,Pattani,Mueang Pattani,Chabang Tiko,ชาฟิค ฮารีส,'0819592017,shafikharris@hotmail.com,unreal,notCustomer
+fvorUhTqht,สันติสุข อะพาร์ทเม้น,Basic Package,84,7,6.8549275,101.2552132,serviceApartment,Pattani,Mueang Pattani,Chabang Tiko,Fahsai Faisal,'0840571284,axonmobiz@yahoo.com,unreal,notCustomer
+Z6XvdSNRzh,รัฒนภาค,Basic Package,10,1,7.6002171999999986,100.3890951,market,Songkhla,Sathing Phra,Chumphon,ภานุพงศ์ เพ็ชรทอง,'0630086488,nallapolnallapol260958@gmail.com,unreal,notCustomer
+BvXWn0wGAF,ดอนรักหอพัก,Basic Package,10,2,,,apartment,Pattani,Nong Chik,Don Rak,อิมรอน บินอาแวกาแฉะ,'0612230610,,unreal,notCustomer
+9vmMSYkakH,TC,Basic Package,5,1,7.0178451213187181,100.48311327445575,hotel,Songkhla,Chana,Taling Chan,Pppp Pppp,'0908880466,ppppankasem@gmail.com,unreal,notCustomer
+nKZtJ0zP4b,Faris Apartment,Basic Package,50,5,6.8045209,101.4523562,apartment,Pattani,Yaring,Tolang,Faris Wadeng,'0822669945,ekoku046@gmail.com,unreal,notCustomer
+hTfFDoJTtZ,H J Home,Basic Package,2,1,,,undefined,Narathiwat,Ra-ngae,Tanyong Mat,Sir Oliver,'0952647751,,unreal,notCustomer
+L3kCRPjxMq,ทบทวนยอด,Professional Package (Trial),40,1,7.5557778,99.6076502,home,Trang,Mueang Trang,Thap Thiang,อินทิรา นิเวศสวรรค์,'0873782853,Niwetsawan280140@gmail.com,unreal,notCustomer
+GG96lVnRkk,กรรณิกา  อพาร์ทเม้นท์,Basic Package,10,2,7.5538257000000009,99.6174332,apartment,Trang,Mueang Trang,Thap Thiang,กัลยรัตน์ บัวทอง,'0656040031,aomlovefeen@outlook.co.th,unreal,notCustomer
+AzB6rr7jqx,6350110024,Basic Package,4,2,7.5538257000000009,99.6174332,apartment,Trang,Mueang Trang,Thap Thiang,ปรมาภรณ์ ชูหนู,'0620754861,paramapornchunu@gmail.com,unreal,notCustomer
+S470QncBSZ,เจดีพี โฮเทล,Basic Package,52,4,,,undefined,Trang,Mueang Trang,Thap Thiang,บัญญวัต มิ่งเมือง,'0918258714,peach30690@gmail.com,unreal,notCustomer
+TMbBJwCPcZ,icm0082,Basic Package,8,2,7.5617564,99.6159225,apartment,Trang,Mueang Trang,Thap Thiang,ศุทธิพัฒน์ วัฒนสิน,'0943183924,staem101556@gmail.com,unreal,notCustomer
+pWcShswN5i,PP HOUSE,Basic Package,52,5,7.5435682575315486,99.615830726467138,undefined,Trang,Mueang Trang,Thap Thiang,K. ออม,'0642451987,aommiz@gmail.com,unreal,notCustomer
+ObL2wA28Wj,ICM0018,Basic Package,24,4,7.5572291199073796,99.612197528002937,apartment,Trang,Mueang Trang,Thap Thiang,นาย ศุภกร สินศุภฤกษ์,'0950196540,6350110018@psu.ac.th,unreal,notCustomer
+BD2QqJuxEh,0013,Basic Package,12,3,7.5460565804243771,99.5596595,apartment,Trang,Yan Ta Khao,Thung Khai,ปณิธาน เกื้อโดย,'0623600325,Panitan3358@gmail.com,unreal,notCustomer
+x7ofYdpoER,บ้านเช่าคุณปิ่น,Basic Package,6,1,,,undefined,Trang,Palian,Thung Yao,โยธิน นันทชัยพิทักษ์,'0876293281,,unreal,notCustomer
+lsX68yr9qQ,6350110014icm,Basic Package,16,2,7.2153313041534366,99.735402452917455,apartment,Trang,Palian,Thung Yao,Pongud Kanin,'0824172528,Pongid93@gmail.com,unreal,notCustomer
+jEyQgZT8Ay,Pangko mansion,Basic Package,30,3,,,undefined,Songkhla,Mueang Songkhla,Thung Wang,ประนอม ประชูสวัสดิ์,'0650428256,,unreal,notCustomer
+k5AiP1ipj8,สีฟ้า,Basic Package,1,1,7.5407422233931509,99.713725559413433,apartment,Trang,Na Yong,Na Khao Sia,Supolwit Rodrawee,'0642936727,supolwitrodrawee@gmail.com,unreal,notCustomer
+1E1QEYV67C,ICM23,Basic Package,36,6,7.5277973873338713,99.71211470524905,apartment,Trang,Na Yong,Na Khao Sia,Nattapat chaiphet,'0936627055,,unreal,notCustomer
+48w3OKqIhi,6350114019,Basic Package,60,3,7.5864394,99.595169399999989,apartment,Trang,Mueang Trang,Na Ta Luang,เบญจนารี นวลนิ่ม,'0945122895,benchanaree20@gmail.com,unreal,notCustomer
+7RPWglLGzM,0014ICm,Basic Package,12,2,7.5864394,99.595169399999989,apartment,Trang,Mueang Trang,Na Ta Luang,Pongud Kanin,'0824172528,Pongid93@gmail.com,unreal,notCustomer
+BOVawurEgc,ทดลอง,Basic Package,25,5,7.6704775003913728,99.576787389814854,apartment,Trang,Mueang Trang,Na Tham Nuea,เอกพัฒน์ ฐานสมบัติ,'0632683391,,unreal,notCustomer
+BqgwBrUg8y,ตรังรุ่งโรจน์ปิโตรเลียม,Basic Package,10,1,,,apartment,Trang,Mueang Trang,Na Tham Tai,รุจิรดา คงพูล,'0805288653,rujirada.kp@gmail.com,unreal,notCustomer
+OWxe6kPgUd,54,Basic Package,,1,7.6003975,99.689831599999991,hotel,Trang,Na Yong,Na Muen Si,erte ertet,'0980280281,,unreal,notCustomer
+w7ifXtgkAe,panit laguna,Basic Package,45,3,7.112589,100.5277454,hotel,Songkhla,Hat Yai,Nam Noi,ขวัญฤดร แก้วจำรัส,'0973616562,seeruchee006@gmail.com,unreal,notCustomer
+8AtcUokOHx,โรงเเรมราตรี,Basic Package,10,2,7.112589,100.5277454,hotel,Songkhla,Hat Yai,Nam Noi,นิติธร เ​ทศนิยม,'0964024873,nitithrthesniym@gmail.com,unreal,notCustomer
+JeVMjRqUjc,aaaa,Basic Package,11,2,,,undefined,Trang,Palian,Bang Duan,Kanjana Nuanpong,'0821503033,k.anjana31@hotmail.com,unreal,notCustomer
+vOLnnXjBym,พฤกษาเฮ้าส์ นราธิวาส,Basic Package,19,2,6.4347055652617637,101.82241728153687,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,ลลิต พฤกษ์,'0864800272,,unreal,notCustomer
+fciRrgVnFP,คชรัตน์,Basic Package,,1,,,undefined,Narathiwat,Mueang Narathiwat,Bang Nak,Karn Krissada,',karnqq@hotmail.com,unreal,notCustomer
+p9PEIfM2fs,Alrahman,Basic Package,18,2,6.4254607347834423,101.8253143876791,apartment,Narathiwat,Mueang Narathiwat,Bang Nak,Hakheemee Kheeree,'0661122012,4g8x5jgggk@privaterelay.appleid.com,unreal,notCustomer
+RZRUlj4Sv6,Np,Basic Package,12,3,6.424468,101.8150573,serviceApartment,Narathiwat,Mueang Narathiwat,Bang Nak,กมลชนก นวลปาน,'0922646625,dear_hw@hotmail.com,unreal,notCustomer
+4Un90Kg9GK,บ้านนราธิวาส,Basic Package,5,2,,,undefined,Narathiwat,Mueang Narathiwat,Bang Nak,Natchanon Pkrm,',poramaporn.krm@gmail.com,unreal,notCustomer
+fhZXI4BTU4,ICM0026,Basic Package,12,3,7.5540513855711913,99.58416844603272,apartment,Trang,Mueang Trang,Bang Rak,ธรรมสถิตย์ แสงจันทร์,'0937474720,,unreal,notCustomer
+woRuv7WEPG,1,Basic Package,1,2,,,undefined,Trang,Kantang,Bang Sak,Metha Sume,'0890430567,botlaster@gmail.com,unreal,notCustomer
+Ym9ADXQDBN,t2,Basic Package,15,5,,,undefined,Trang,Kantang,Bang Mak,chatchai krab,'0844821768,,unreal,notCustomer
+ZvCbwQ4tFf,TIS Building,Basic Package,8,4,,,noBussiness,Pattani,Mueang Pattani,Bana,Niwat Sachdev,'0814505255,shivek@omgexp.com,unreal,notCustomer
+GKKJYgZeHM,ศิภิรมย์,Basic Package,,1,6.4803972,101.1334344,noBussiness,Yala,Yaha,Baro,วันมูฮัมหมัด เจ๊ะแวดอเล๊าะ,'0611307548,wanmuhamhmad5@gmail.com,unreal,notCustomer
+ZcROyDzjJK,ingkayut,Basic Package,,1,6.7863698,101.1447196,apartment,Pattani,Nong Chik,Bo Thong,ชุติเดช ชวณิชย์,'0817647456,javanicha@gmail.com,unreal,notCustomer
+K7aHwCNnNW,บ้านอยู่สุขสบาย,Basic Package,5,1,7.4109021,99.5145938,apartment,Trang,Kantang,Bo Nam Ron,อภิชาติ เขวาลำธาา,'0636635390,aoftccc@gmail.com,unreal,notCustomer
+tB8JUvxPvA,เดอะลีฟวิ่งแมนชั่น,Basic Package,1,1,,,undefined,Songkhla,Mueang Songkhla,Bo Yang,ปุรเชษฐ์ สิริจริยาพร,'0833126465,,unreal,notCustomer
+nvWjrkRdkT,ธันญา,Basic Package,50,5,7.2033541700529513,100.6005515148193,hotel,Songkhla,Mueang Songkhla,Bo Yang,ไม่ รู้,'0863260515,,unreal,notCustomer
+en77JmJ3i0,@16 Dorm (หอพักครูแน่งน้อย),Basic Package,,1,7.1983301,100.5999507,apartment,Songkhla,Mueang Songkhla,Bo Yang,โศภิษฐา ขวัญสังข์,'0876302682,2003pupae@gmail.com,unreal,notCustomer
+45HlkB3Cjs,บ้านดวงเดือน,Basic Package,,1,7.0002689671921852,100.47967607842773,unReachable,Songkhla,Mueang Songkhla,Bo Yang,เจนจิรา ชื่นชม,'0864806380,K.janjira24@gmail.com,unreal,notCustomer
+XNOfFoCRAt,MatsuzakaResidene,Basic Package,1,5,7.2015785662783109,100.59730005292928,unReachable,Songkhla,Mueang Songkhla,Bo Yang,รัตนา ดำอินทร์,'0620941355,Chonticha0650520131@gmail.com,unreal,notCustomer
+cUGvNuloEB,พอพักพัชรี,Basic Package,8,1,7.2047751977062422,100.59421062469482,serviceApartment,Songkhla,Mueang Songkhla,Bo Yang,พัชรี โทยกูล,'0980155138,,unreal,notCustomer
+eaAu4iV3L2,test,Basic Package,8,2,7.1983301,100.5999507,apartment,Songkhla,Mueang Songkhla,Bo Yang,Khomkrit Chuaycrotha,'0623402824,gamesuza55@hotmail.com,unreal,notCustomer
+mLD3YJ29oF,Wacharapong,Basic Package,6,1,7.1901659023981335,100.5927622318268,apartment,Songkhla,Mueang Songkhla,Bo Yang,Din Wacharapong,'0808675964,Wacharapong019@gmail.com,unreal,notCustomer
+TRHnMKVwJs,บ้านป้ารีย์วชิรา,Basic Package,7,1,7.1937993100157076,100.60124170035124,apartment,Songkhla,Mueang Songkhla,Bo Yang,Benjamart Dangmuen,'0876326432,un_ti_tle@hotmail.com,real,notCustomer
+z0m0kSXPlw,หอพักสมิหลา,Basic Package,16,4,,,undefined,Songkhla,Mueang Songkhla,Bo Yang,Pond Inw,'0824292201,pondbancha.t@gmail.com,unreal,notCustomer
+VXpqWQUN08,บ้านจิตศิริ,Basic Package,5,3,,,undefined,Songkhla,Mueang Songkhla,Bo Yang,Tkorn Jitsiri,'0890436007,kornziri_j@hotmail.com,real,notCustomer
+bTsdLdrtIa,บ้านเช่า4ห้อง,Basic Package,4,1,,,undefined,Songkhla,Mueang Songkhla,Bo Yang,พรรณี บุบผะโก,'0993562453,,unreal,notCustomer
+AbajPp6Rxv,ไทตะวัน แมนชั่น,Basic Package,52,4,7.1973429,100.593205,noBussiness,Songkhla,Mueang Songkhla,Bo Yang,Deleted User,',,unreal,notCustomer
+OepsZRySbB,9 พงศ์ภัทร อพาร์ทเมนท์,Basic Package,40,4,7.18068579650216,100.60178318965183,undefined,Songkhla,Mueang Songkhla,Bo Yang,พงศ์ภัทร ถวัลย์วงศ์ศรี,'0882554545,t.phongphat@gmail.com,unreal,notCustomer
+P1zEYZT6Hs,บ้านในสวน,Basic Package,,0,7.1885214513234681,100.59234037073384,unReachable,Songkhla,Mueang Songkhla,Bo Yang,เจษฎากร พัฒนกิจการสาร,'0958796888,jppnose099@gmail.com,unreal,notCustomer
+cs2iGv9MjT,โกลเด้น มัสซึทากะ,Basic Package,80,8,7.1973429,100.593205,noBussiness,Songkhla,Mueang Songkhla,Bo Yang,Deleted User,',,unreal,notCustomer
+AAxn6SOGro,Pn mansion,Basic Package,43,4,,,undefined,Songkhla,Mueang Songkhla,Bo Yang,Jane Jenjira,',jane_e29@hotmail.com,unreal,notCustomer
+zl94rB0ijI,TK Service Apartment,Basic Package,9,3,,,undefined,Songkhla,Mueang Songkhla,Bo Yang,สรภัทร์ บุญช่วย,'0842509223,,real,notCustomer
+T7MJ5U4yI6,ตลาดสดเทศบาลตำบลสิเกา,Basic Package,53,1,7.5863022,99.3562094,market,Trang,Sikao,Bo Hin,ปภังกร แก้วสมศรี,'0973548316,,unreal,notCustomer
+LzJfVoCldm,6350110001,Basic Package,6,3,7.3033682900745394,99.66188377456055,apartment,Trang,Palian,Ban Na,Kittisak Sutthikittipong,'0635405100,6350110001@psu.ac.th,unreal,notCustomer
+NIFniE3gAA,โป๊ะหมอ,Basic Package,2,1,,,undefined,Songkhla,Hat Yai,Ban Phru,Chakkait Methanai,'0936152987,ck0819905003@gmail.com,unreal,notCustomer
+PMxXIed484,ชามีมี,Basic Package,15,3,6.6364252,100.4213368,unReachable,Songkhla,Sadao,Prik, ,'0824340146,,unreal,notCustomer
+HPRUYEhUYU,Sara house,Basic Package,5,1,,,serviceApartment,Songkhla,Sadao,Prik,Kornisara Sara,'0986831434,sarakornisa00924@gmail.com,unreal,notCustomer
+CkDBh9la1i,Home,Basic Package,20,2,,,undefined,Pattani,Panare,Panare,สุกิฟลี สะลีมิง,'0902106100,,unreal,notCustomer
+vu3zpFj6D4,โฮมสเตย์บารอกัต,Basic Package,,1,6.8401284,101.4864313,hotel,Pattani,Panare,Panare,ตัลมีซีย์ สาอุ,'0631021493,tamizeesau92@gmail.com,unreal,notCustomer
+8BkOhoUqBo,ภูผายอด รีสอร์ท,Basic Package,30,1,7.7305486000000014,99.6230001,hotel,Trang,Huai Yot,Pak Khom,สหัสกรณ์ เชื้อเมืองพาน,'0991747339,Sahasakorn1995@gmail.com,unreal,notCustomer
+DvKOWNgE5h,Piraya Nawin School,Basic Package,40,5,6.62281284557393,101.20095287199706,apartment,Pattani,Khok Pho,Pak Lo,ซอฟรอน หะยีดอเลาะ,'0828296700,ust.zofron@piraya.ac.th,unreal,notCustomer
+6nxDjOJbdG,ICM0007,Basic Package,16,2,6.71378604345822,100.29789011586917,apartment,Songkhla,Sadao,Padang Besa,นายธนธร บุญธรรม,'0850716619,,unreal,notCustomer
+jNZeN7ZQE4,pon computer,Basic Package,9,3,7.3334475,100.1591213,market,Phatthalung,Pa Bon,Pa Bon,sittiporn jutavanit,'0643301720,ballhulk1998@hotmail.com,unreal,notCustomer
+evkQ4by5d0,ตลาดนัดสี่แยกคูแปลก,Basic Package,10,1,7.80770525,99.9390937910241,market,Phatthalung,Pa Phayom,Pa Phayom,อัครพล โชติปริโภคิน,'0636416654,,unreal,notCustomer
+1gJ5AIFvpD,บ้านเลขที่ 775/34,Basic Package,1,1,7.1312428,100.578718,noBussiness,Songkhla,Mueang Songkhla,Phawong,นภาพร ศรีวิชัย,'0658630683,,unreal,notCustomer
+dwoLE2UaDf,Hanako mansion,Basic Package,27,3,,,undefined,Songkhla,Mueang Songkhla,Phawong,อารีนา บินหมัด,'0971957275,,unreal,notCustomer
+lZ8fHTxw22,ปีนัง,Basic Package,55,7,,,undefined,Songkhla,Mueang Songkhla,Phawong,Dook Chaitada,'0946291118,,unreal,notCustomer
+HjpYwjfADQ,Whale good apartments,Basic Package,24,3,,,undefined,Songkhla,Mueang Songkhla,Phawong,ฮาบี้บ หมัดแหล๊ะ,'0644377284,,unreal,notCustomer
+UzstWMNKZX,TK อพาร์ทเม้นท์,Basic Package,72,5,6.8790221,100.5498542,noBussiness,Songkhla,Mueang Songkhla,Phawong,สุธิดา สุจริต,'0659959926,tuckinlove@hotmail.com,unreal,notCustomer
+26thlY9LQg,วนิวินัย,Basic Package,50,1,7.1973429,100.593205,noBussiness,Songkhla,Mueang Songkhla,Phawong,พัชรินัณ อนันตประเสริฐ,'0654724594,bas27959@gmail.com,unreal,notCustomer
+JFhdEmFjPN,ตลาดผ้าคลองแงะ,Basic Package,200,1,6.7901583260007472,100.45647382736207,market,Songkhla,Sadao,Phang La,ปฐมพล รัตนปราการ,'0856649354,pratanaprakarn@gmail.com,unreal,notCustomer
+zOFaaySz1n,รีสอร์ทกลางน้ำ,Basic Package,14,1,7.3603131808419926,100.48439495265485,apartment,Songkhla,Singhanakhon,Muang Ngam,K Thanapop,'0807092071,80.realme@gmail.com,unreal,notCustomer
+rueEEiJGUE,หอบัณฑิตน้อย,Basic Package,10,1,,,undefined,Yala,Mueang Yala,Yala,sucasoft thailand,'0935975101,hadisucasoft@gmail.com,unreal,notCustomer
+IsVzgLbMjN,ยือรีงา,Basic Package,4,1,,,undefined,Narathiwat,Yi-ngo,Yi-ngo,นิเซาฟี นิบือซา,'0913168100,,unreal,notCustomer
+kPTvCXZJub,บ้านเช่า291,Basic Package,,1,6.8676239,101.2498138,unReachable,Pattani,Mueang Pattani,Ru Samilae,Suteemon Parditrungwattana,'0941267390,suteemon8555@gmail.com,unreal,notCustomer
+4M7kttIrh3,อัฟฟานเรสซิเดนส์,Basic Package,57,6,6.8733060884968342,101.23638284888226,undefined,Pattani,Mueang Pattani,Ru Samilae,อิมรอน มูซายี,'0848581100,aljabanee@yahoo.com,unreal,notCustomer
+Dh4K38HaHU,หอพักหญิงนันทวัน,Basic Package,82,4,6.8761398327191685,101.23766391212483,university,Pattani,Mueang Pattani,Ru Samilae,เธียรวิภา พันทวีศักดิ์,'0866266620,tianwipa@hotmail.com,unreal,notCustomer
+oUsfmxMtSV,โรงแรมเรนโบว์,Basic Package,35,5,,,undefined,Pattani,Mueang Pattani,Ru Samilae,ณัฏฐญา นาคแดง,'0811254444,,unreal,notCustomer
+KqHCOFaVIc,Bluelapan,Basic Package,8,1,,,hotel,Pattani,Mueang Pattani,Ru Samilae,ธวัลรัตน์ ว่องกมลปฏิญญา,'0872982273,sunanta.p@psu.ac.th,unreal,notCustomer
+XiY56VGvNO,หอวิ,Basic Package,15,1,,,university,Pattani,Mueang Pattani,Ru Samilae,เธียรวิภา พันทวีศักดิ์,'0866266620,tianwipa@hotmail.com,unreal,notCustomer
+P0B4E250cV,จันทรา1,Basic Package,20,4,6.8816308999999993,101.2431391,noBussiness,Pattani,Mueang Pattani,Ru Samilae,น้ำฝน หยาด,'0657695878,,unreal,notCustomer
+VLReveGAYD,หอพักนามีญ่า ปัตตานี,Basic Package,32,3,13.7563,100.5018,unReachable,Pattani,Mueang Pattani,Ru Samilae,Prok Sorba,'0622025964,sobareeyah7639@gmail.com,unreal,notCustomer
+ZGlKPe3j4H,ล่องแก่งลุงทัน,Basic Package,15,1,,,undefined,Phatthalung,Pa Phayom,Lan Khoi,Sanon Khaokhaikeaw,'0813687788,mo_mo_eng@hotmail.com,real,notCustomer
+26mVI3CwQQ,บัสซัม,Basic Package,,1,6.7613815,101.29418,noBussiness,Pattani,Yarang,Wat,บัสซัม โตะตาหยง,'0620985229,sahabuding4273@gmail.com,unreal,notCustomer
+FVRLbV5R7Z,บ้านพักตากอากาศ,Basic Package,,1,7.9076318,98.385532,hotel,Songkhla,Thepha,Sakom,สมฤทัย หมะหลี,'0946646540,armanayear2023@gmail.com,unreal,notCustomer
+mR5BWKC4B7,โครงการบ้านเช่า,Basic Package,25,5,6.8676239,101.2498138,market,Pattani,Mueang Pattani,Sabarang,sucasoft thailand,'0935975101,hadisucasoft@gmail.com,unreal,notCustomer
+mOZdVEVHod,หอพักสามหมอ1 เลขที่77 ,Basic Package,5,2,6.5476930692755335,101.27677599054181,unReachable,Yala,Mueang Yala,Sateng,กันต์ฤทัย  ดลภัย ,'0948924404,kanruethaidonphai@gmail.com,unreal,notCustomer
+pXKqZgLzpz,หอพักสามหมอ1 เลขที่79 ,Basic Package,5,2,6.5477161652746441,101.27672295155442,unReachable,Yala,Mueang Yala,Sateng,กันต์ฤทัย  ดลภัย ,'0948924404,kanruethaidonphai@gmail.com,unreal,notCustomer
+NIZ722faft,Bunny,Basic Package,7,2,6.5431275051144073,101.28997892129263,unReachable,Yala,Mueang Yala,Sateng,นัสเราห์ บาราเฮง,'0866448744,playboxyala@gmail.com,unreal,notCustomer
+jhFpitQNC8,STOCKPORT HOMES (THAILAND),Basic Package,100,1,,,undefined,Yala,Mueang Yala,Sateng,Stockport Home,'0073299886,eh.nattawut@yahoo.com,unreal,notCustomer
+L3UtI2zJFA,Areeda Apartment,Basic Package,5,1,6.3344846,101.1409694,unReachable,Yala,Mueang Yala,Sateng,Areeda Dengchi,'0615906899,,unreal,notCustomer
+Et2BP6OO28,แสนศิริ,Basic Package,,1,,,undefined,Yala,Mueang Yala,Sateng,signpaly signpaly,'0855846850,,unreal,notCustomer
+TDRvGLasmC,แปะหอพัก,Basic Package,,1,,,undefined,Yala,Mueang Yala,Sateng,แปะ ครั้บ,'0879683744,,unreal,notCustomer
+HaQn16AQ0j,702,Basic Package,1,7,6.5476560814907785,101.28897320426026,noBussiness,Yala,Mueang Yala,Sateng,Waeharun Sidek,'0937245171,weaharong.sanee@gmail.com,unreal,notCustomer
+dJcmBFxGK4,บลา,Basic Package,10,2,13.7563,100.5018,unReachable,Yala,Mueang Yala,Sateng,แวอามีเราะห์ วาเย็ง,'0968387883,,unreal,notCustomer
+YkQb0VctVL,rindu apartment ,Basic Package,28,4,6.567483351274487,101.29482600720036,serviceApartment,Yala,Mueang Yala,Sateng,วันมูฮำมัด กาซอ,'0655981184,wannkasaw@gmail.com,unreal,notCustomer
+CYSsqYrDHs,บ้านสุจริต,Basic Package,6,2,6.5447995,101.2853254,unReachable,Yala,Mueang Yala,Sateng,อนุสรา ตราชู,'0929741935,f.anutsara@gmail.com,unreal,notCustomer
+hePpjveF8b,ภูผา,Basic Package,1,4,,,undefined,Yala,Mueang Yala,Sateng,ภูผา ภูผา,'0819590257,,unreal,notCustomer
+ukWhpqz2wa,หอพักสามหมอ1 เลขที่75 ,Basic Package,5,2,6.5476439142413474,101.27668235103319,unReachable,Yala,Mueang Yala,Sateng,กันต์ฤทัย  ดลภัย ,'0948924404,kanruethaidonphai@gmail.com,unreal,notCustomer
+VTrB494ImU,หอพักมุสลีมะฮ์,Basic Package,,1,6.5420465,101.2812178,noBussiness,Yala,Mueang Yala,Sateng,มาเรียนา บินอิสริส,'0916398366,himariana.555@gmail.com,unreal,notCustomer
+zM3aDmVTHq,คารแคร์ ตือเบาะ,Basic Package,12,1,,,undefined,Yala,Mueang Yala,Sateng Nok,adisak bado,'0936385095,,unreal,notCustomer
+JOS4QCZz5O,หอพัก,Basic Package,20,1,,,undefined,Yala,Mueang Yala,Sateng Nok,admin admin,'0842131793,,unreal,notCustomer
+cmroIAqWwL,Oliver sps,Basic Package,47,3,,,undefined,Songkhla,Sadao,Samnak Kham,สาวน้อย อารมณ์ดี,'0860976726,ning_radmark@hotmail.com,unreal,notCustomer
+uHDn0lvFtw,ICM0006,Basic Package,12,3,7.245252927771781,99.656948509973148,apartment,Trang,Palian,Suso,ณัสมา สุภาวรรณ์,'0925278011,,unreal,notCustomer
+QHjnbUDaSm,หอพักหญิงศรีตรัง4,Basic Package,40,4,7.5084744,99.5434989,apartment,Trang,Mueang Trang,Nong Trut,Deleted User,',,unreal,notCustomer
+JRqxvQjDoC,testsss,Basic Package,4,2,,,undefined,Trang,Mueang Trang,Nong Trut,dsf cc,'0650859480,,unreal,notCustomer
+oyY5djBy4x,แมวสบาย,Basic Package,20,2,,,undefined,Trang,Ratsada,Nong Bua,ชัชพงศ์ เพียรดี,'0867459685,lalala_aom@windowslive.com,unreal,notCustomer
+jIudmh6Gmm,โรงแรมวารี โฮเทล,Basic Package,10,2,6.984623187682887,100.45623430197757,apartment,Songkhla,Hat Yai,Hat Yai,ธิเบต สุขอุ่น,'0808646237,,unreal,notCustomer
+ItjgJEThJ8,ศักดิ์ชายแมนชั่น,Basic Package,88,5,,,undefined,Songkhla,Hat Yai,Hat Yai,วริศรา หออัมพวันวงศ์,'0613625919,,unreal,notCustomer
+s21rWb03yP,โรงแรมสยามเซ็นเตอร์,Basic Package,190,16,,,hotel,Songkhla,Hat Yai,Hat Yai,นายยุทธพงษ์ ราวัล,'0807068401,,real,notCustomer
+vqIItjnwjA,บ้านเช่า COZMO,Basic Package,,1,14.1110314,100.608406,unReachable,Songkhla,Hat Yai,Hat Yai,ภัสส์ณิชา ศิริวีระสกุล,'0655547689,mphatnicha@gmail.com,unreal,notCustomer
+0MqXNp3uAJ,ภัสธิตา แมนชั่น,Basic Package,,62,,,noBussiness,Songkhla,Hat Yai,Hat Yai,พีรพงษ์ แก้วประกอบ,'0909587608,,unreal,notCustomer
+pg9oysiFOY,สุวรรณศรี,Basic Package,13,14,7.0209248596932543,100.49835920333862,apartment,Songkhla,Hat Yai,Hat Yai,สนธยา ซุ้นสุวรรณ,'0634214775,sontaya_806@gmail.com,unreal,notCustomer
+rsBAsoDZU8,TOMORROW,Basic Package,79,8,,,undefined,Songkhla,Hat Yai,Hat Yai,อาภาพร จะนู,'0649719892,,unreal,notCustomer
+Tft2i5J4P7,อันทารา,Basic Package,,0,7.0090090090090094,100.48062374020853,noBussiness,Songkhla,Hat Yai,Hat Yai,กชพร ทองสองยอด,'0946344046,,unreal,notCustomer
+MqP0053DBd,ใบเฟิร์น อพาร์ทเม้นท์,Basic Package,100,10,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,พชรธรณ์ สังขารักษ์,'0987946897,,unreal,notCustomer
+mVR4YTOUsP,123,Basic Package,25,2,,,undefined,Songkhla,Hat Yai,Hat Yai,PP KK,'0902322297,,unreal,notCustomer
+R0ILAzBbSV,ช่องเขาอพาร์ทเมนท์,Basic Package,,1,,,apartment,Songkhla,Hat Yai,Hat Yai,Suwichada Thammachot,'0817389779,namzit-st1@hotmail.com,real,notCustomer
+k6Yiab0mCU,Num,Basic Package,10,1,7.0074644,100.4689889,unReachable,Songkhla,Hat Yai,Hat Yai,ภัทราภรณ์ บัวศรี,'0935745433,phatthraporn14@gmail.com,unreal,notCustomer
+nXIDy7yQ73,เปียทิพย์ บ้านเช่า,Basic Package,,1,7.0074644,100.4689889,noBussiness,Songkhla,Hat Yai,Hat Yai,เปียทิพย์ ไชยานุวงศ์,'0866920786,piathip0786@gmail.com,unreal,notCustomer
+eTQKOCxiIT,vw House,Basic Package,13,5,7.0016493731990375,100.45220478419981,apartment,Songkhla,Hat Yai,Hat Yai,ธีรพงษ์ เพ็ชราการ,'0887511598,hkcsvh8gsx@privaterelay.appleid.com,unreal,notCustomer
+CWDsGyEk4U,ภัสธิตา แมนชั่น,Basic Package,,4,6.9913401,100.4841656,apartment,Songkhla,Hat Yai,Hat Yai,สาตีนี แวหะมะ,'0623412381,,unreal,notCustomer
+F33qDE4tAm,Plus connect,Basic Package,1,18,7.0080781626468536,100.48067852147561,unReachable,Songkhla,Hat Yai,Hat Yai,ธาม เลี้ยงพันธุ์สกุล,'0632695655,gide-gide007@hotmail.com,unreal,notCustomer
+86YvnJnyTH,komg,Basic Package,46,2,,,hotel,Songkhla,Hat Yai,Hat Yai,วีระเมศวร์ ทิพย์แก้ว,'0919874205,seekong355@gmail.com,unreal,notCustomer
+JDoYZOrhUM,ไชยณรงค์แมนชั่น,Basic Package,54,5,,,serviceAp,Songkhla,Hat Yai,Hat Yai,จรัส ไชยณรงค์,'0816097601,Tee_fortuner@hotmail.co.th,unreal,notCustomer
+2jYPXmqxQw,บ้าน ปาย ปาร์ค,Basic Package,14,4,7.0090090090090094,100.44431637842345,unReachable,Songkhla,Hat Yai,Hat Yai,Deleted User,',,unreal,notCustomer
+9nm3XMTBu2,ABC,Basic Package,9,3,,,unReachable,Songkhla,Hat Yai,Hat Yai,Wilasinee Deangpan,'0994782058,wilasinee465@gmail.com,unreal,notCustomer
+O8ukt8TlVw,Ingatara,Basic Package,80,4,,,undefined,Songkhla,Hat Yai,Hat Yai,วศิน ภัสสรภากร,'0827978810,,unreal,notCustomer
+LXzD4T9D8Z,Petchmansion,Basic Package,38,5,6.96583325,100.43005535316902,serviceApartment,Songkhla,Hat Yai,Hat Yai,สุมาลี แซ่ลิ่ม,'0617653658,P.parawan@hotmail.com,unreal,notCustomer
+HmODPijLu6,ศักดิ์ชายแมนชั่น,Basic Package,86,6,,,undefined,Songkhla,Hat Yai,Hat Yai,วริศรา หออัมพวันวงศ์,'0613625919,,unreal,notCustomer
+8GWyGqAB6V,Varee place,Basic Package,28,5,,,undefined,Songkhla,Hat Yai,Hat Yai,Pranitan Wareekun,'09929558522,robot_b13@hotmail.com,unreal,notCustomer
+edr3erbRUw,แนนอพาร์ทเม้นท์,Basic Package,100,10,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,ณัฏฐชา เพ็งดี,'0625313957,,unreal,notCustomer
+5MEFTECmAm,Dd,Basic Package,10,1,,,undefined,Songkhla,Hat Yai,Hat Yai,Pradutdaw Waiyaro,'0638261465,boom_daw@hotmail.com,unreal,notCustomer
+YF5Kpiwzcx,99 กนกวัณ,Basic Package,20,2,,,undefined,Songkhla,Hat Yai,Hat Yai,Natta Patta,'0824979918,,unreal,notCustomer
+7rRVFBioAL,ศักดิ์ชายแมนชั่น,Basic Package,85,5,,,undefined,Songkhla,Hat Yai,Hat Yai,Niramon Tongpadpoo,'0874799098,crablove22@gmail.com,unreal,notCustomer
+2Lm1dLZJYr,bbbbbb,Basic Package,,1,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,surat aupapan,'0890995300,Web@thailand.com,unreal,notCustomer
+h8irzVEIc6,ใบชา,Basic Package,11,1,,,undefined,Songkhla,Hat Yai,Hat Yai,รติยา เอกเชวง,'0909840781,,real,notCustomer
+QEn5XzPEzT,Manorn,Basic Package,20,4,,,undefined,Songkhla,Hat Yai,Hat Yai,วรัญญา ผลเกิด,'0918202121,,real,notCustomer
+peJ1UCpk9e,Apt,Basic Package,50,1,7.0074644,100.4689889,unReachable,Songkhla,Hat Yai,Hat Yai,ตรี ตรี,'0864664979,three.buree@gmail.com,unreal,notCustomer
+3fJgQ2FTJ9,sila apartment,Basic Package,,1,7.0091396085074891,100.46181879937649,apartment,Songkhla,Hat Yai,Hat Yai,Piyathida Yardthong,'0946311808,guitarduck464@gmail.com,unreal,notCustomer
+VV7ZFk2bFD,หอ 0010,Basic Package,106,12,6.9958260280993674,100.47889360373539,apartment,Songkhla,Hat Yai,Hat Yai,นราวิชญ์ กิจวงศ์วัฒนา,'0800512021,narawith55555@gmail.com,unreal,notCustomer
+LTH6SFAOkQ,หอพักบ้านทราย,Basic Package,5,1,7.0074644,100.4689889,unReachable,Songkhla,Hat Yai,Hat Yai,ทดสอบ ทอสอบ,'0918462315,nattavutmail3@gmail.com,unreal,notCustomer
+XBimaxH8Cn,S1+,Basic Package,40,4,7.0086472,100.4746879,serviceApartment,Songkhla,Hat Yai,Hat Yai,นิรมล ชูวัน,'0820823525,,unreal,notCustomer
+Nl0L7r7nFF,Lew Arena Hotel,Basic Package,30,3,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,พรนภา ริ้วกาญจนา,'0648610238,pornnapa1837@gmail.com,unreal,notCustomer
+gNVvGsamvw,-,Basic Package,16,2,,,apartment,Songkhla,Hat Yai,Hat Yai,Juggapong Rattana,'0855943191,juggapong.rattana@gmail.com,unreal,notCustomer
+x3GH0AUIGq,ศักดิ์ชายแมนชั่น,Basic Package,88,6,,,undefined,Songkhla,Hat Yai,Hat Yai,วริศรา หออัมพวันวงศ์,'0613625919,,unreal,notCustomer
+vyyvXXd4RK,โรงแรมวิดวิว,Basic Package,80,8,7.0086472,100.4746879,apartment,Songkhla,Hat Yai,Hat Yai,นายคณาธิป นิจรันต์,'0949561599,,unreal,notCustomer
+hu3RZwDG5o,นภาลัยเพลสคอนโด,Basic Package,24,35,,,undefined,Songkhla,Hat Yai,Hat Yai,Chaloemlak Tantiviwatkhul,'0992215353,gam50112@outlook.co.th,unreal,notCustomer
+XAsDuSpdcM,หอพักสีส้ม,Basic Package,,1,,,serviceApartment,Songkhla,Hat Yai,Hat Yai,nattaron promtep,'0879673165,,real,notCustomer
+7S7CEb7DGR,hugoe ampartment,Basic Package,4,2,7.034108671746381,100.50232062460405,unReachable,Songkhla,Hat Yai,Hat Yai,Deleted User,',,unreal,notCustomer
+il3W8JQZ6s,เวล เวลเนส,Basic Package,81,4,7.0074644,100.4689889,noBussiness,Songkhla,Hat Yai,Hat Yai,บริษัท เวล เวลเนส เซอร์วิส จำกัด,'0618981221,acc.whelawellness@gmail.com,unreal,notCustomer
+UiYBSAZBm5,Koh Mook Hostel,Basic Package,2,1,,,undefined,Trang,Kantang,Ko Libong,สุรศักดิ์ เศรษฐพิศาล,'0897244456,,unreal,notCustomer
+jPmcJiyZVK,Nana Mansion,Basic Package,31,3,,,undefined,Songkhla,Mueang Songkhla,Ko Taeo,ภาวิตา ประชูสวัสดิ์,'0645924758,,unreal,notCustomer
+bSOq9KBJjf,Habeef Mansion,Basic Package,30,3,,,undefined,Songkhla,Mueang Songkhla,Ko Taeo,ฮาบี้บ หมัดแหล๊ะ,'0831842181,,unreal,notCustomer
+TFq48DULTJ,รุ่งนภา,Basic Package,401,1,7.1973429,100.593205,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,ลภัสรดา อาสนะ,'0635907040,lapatrada063@gmail.com,unreal,notCustomer
+T50f5HgNEa,Wsotel Hotel B,Basic Package,77,8,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,อัจฉราพรรณ ประยืนยง,'111111111,,unreal,notCustomer
+sDrq6Cce6M,วิมลวรรณเพส,Basic Package,8,1,9.2423806307610974,99.758658062279778,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,นัฏพงษ์ แข็งหมัด,'0996434845,but54092@gmail.com,unreal,notCustomer
+k4GcPF8mOK,เอสที,Basic Package,15,1,7.1973429,100.593205,noBussiness,Songkhla,Mueang Songkhla,Khao Rup Chang,อภิชญา หยังดี,'0972698189,inkapichya@gmail.com,unreal,notCustomer
+a9YP2GJmCD,คุณณัฏฐ์อพาร์ทเม้นท์,Basic Package,50,6,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,Pimpapatsorn Thanhawat,',e_tookta@hotmail.com,unreal,notCustomer
+CfTqZTI0Ak,หอพักตายาย,Basic Package,,1,7.1973429,100.593205,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,นัฏพงษ์ แข็งหมัด,'0996434845,but54092@gmail.com,unreal,notCustomer
+4r4KmEeja3,รวย อพาร์ตเมนต์,Basic Package,60,6,7.162776,100.6071234,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ฐิติมา ตาราช,'0954279035,,unreal,notCustomer
+u5geO8Cb6S,เหมือนบ้านจานโปรด,Basic Package,6,3,7.1590532099580235,100.60180429590888,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,นิชนันท์ รัตนคำ,'0970931178,19102545k@gmail.com,unreal,notCustomer
+KiEoRQphOz,PD​ apartment​,Basic Package,38,3,13.7563,100.5018,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,จุฑารัตน์​ เพชรสีมาก,'0980459094,jutarat1126@gmail.com,unreal,notCustomer
+6dkzpVJpFb,ห้องเช่าพูนทรัพย์,Basic Package,11,1,7.1751970810997,100.59374259728916,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ธีรศักดิ์ สุวรรณแสง,'0935789961,Theerasakpat15@gmail.com,unreal,notCustomer
+2Qq9lCBHrm,Wsotel Hotel Building B,Basic Package,77,8,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,Atcharaphan Prayuenyong,'093695551,atchar34@gmail.com,unreal,notCustomer
+IQfplKjBHX,ดวงธิดาอพาร์ทเม้นท์,Basic Package,67,7,7.143424,100.59776,serviceApartment,Songkhla,Mueang Songkhla,Khao Rup Chang,วิจิตพรรณ หละดำ,'0656163564,,unreal,notCustomer
+x8SmZNDmPm,ดวงธิดา อพาร์ทเม้นท์,Basic Package,69,7,6.8790221,100.5498542,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,สุธิดา สุจริต,'0659959926,tuckinlove@hotmail.com,unreal,notCustomer
+HtekT1HSqZ,PD​ apartment,Basic Package,22,2,13.7563,100.5018,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,จุฑารัตน์​ เพชรสีมาก,'0980459094,jutarat1126@gmail.com,unreal,notCustomer
+fCRAsa2AJq,FJ,Basic Package,20,2,13.7563,100.5018,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,Deleted User,',,unreal,notCustomer
+BrEPLhXuum,FJ,Basic Package,20,2,13.7563,100.5018,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,Deleted User,',,unreal,notCustomer
+WEvBhGp0y8,ปัทมา,Basic Package,4,2,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,Lukpat Zii,'0878999957,pattama5799@gmail.com,unreal,notCustomer
+HvPv98yHJx,MS. อพาร์ทเมนท์ 1,Basic Package,59,5,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,Sathanee Losuwan,'0814573808,,unreal,notCustomer
+dqkkbRpdOs,iTest,Basic Package,11,3,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,วัชวิศ วิริยะธรรม,'0836576503,,unreal,notCustomer
+oPbNdNXhFk,laichan,Basic Package,40,5,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,pennipa peankliang,'0817662400,,unreal,notCustomer
+ytCoXGdAUC,ไมค์,Basic Package,,1,,,noBussiness,Songkhla,Mueang Songkhla,Khao Rup Chang,ทินกร จันทร์,'0815057706,tinargorn8518@gmail.com,unreal,notCustomer
+6pzWXLE7Gw,YS0016,Basic Package,30,3,7.1626908391332611,100.61647894504394,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ยลรดี สุขใส,'0980141107,familysuksai@gmail.com,unreal,notCustomer
+5bKdWHgzsm,หอพักคุณเจม,Basic Package,3,1,7.17877418448479,100.59240818023683,apartment,Songkhla,Mueang Songkhla,Khao Rup Chang,ธีธัช คล้ายสถิตย์,'0842905322,Teetaach22@gmail.com,unreal,notCustomer
+oCwBPqWZvq,TNT​ Apartment​,Basic Package,15,3,7.160023207242693,100.60650126520711,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,จุฑารัตน์​ เพชรสีมาก,'0980459094,jutarat1126@gmail.com,unreal,notCustomer
+Pvd94WQWGQ,St apartment,Basic Package,30,4,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,ธนพล คชชาสุวรรณ,'0846066669,,unreal,notCustomer
+IhVajD0JAi,Wsotel Hotel B,Basic Package,77,8,,,undefined,Songkhla,Mueang Songkhla,Khao Rup Chang,อัจฉราพรรณ ประยืนยง,'111111111,,unreal,notCustomer
+yZ4AIr4C7Z,TS Apartment​,Basic Package,28,2,13.7563,100.5018,unReachable,Songkhla,Mueang Songkhla,Khao Rup Chang,จุฑารัตน์​ เพชรสีมาก,'0980459094,jutarat1126@gmail.com,unreal,notCustomer
+qB5IMgWXar,6350110005,Basic Package,12,3,7.6933701515632746,99.4624610814453,apartment,Trang,Wang Wiset,Khao Wiset,นายณัฐนนท์ ส่งศรีจันทร์,'0636096842,natthanonsong@gmail.com,unreal,notCustomer
+bJtTxW1ytD,บ้านอยู่สบายอพาร์ทเม้นท์,Basic Package,21,5,,,undefined,Yala,Betong,Betong,Sompong Ruengpoonwittaya,'0847007565,sompong.rue@gmail.com,unreal,notCustomer
+zy5VbrUbPw,นายภูวนนท์  ยูนุห์,Basic Package,10,1,,,undefined,Narathiwat,Waeng,Erawan,ภูวนนท์ ยูนุห์,'0887507761,,real,notCustomer
+g6TdTLYxFs,โฮม1,Basic Package,20,1,,,undefined,Songkhla,Khlong Hoi Khong,Khok Muang,HOME 99,'0648071317,pucpvlpo@gmail.com,unreal,notCustomer
+HJRNjOJwWB,HFT security home,Basic Package,4,1,6.290734027009135,101.47607236727293,unReachable,Narathiwat,Rueso,Khok Sato,ฮานาฟี สะอะ,'0612625451,feemni@gmail.com,unreal,notCustomer
+mFleLcnul6,ระเบียงน้ำ รีสอร์ท พี,Basic Package,10,1,,,undefined,Phatthalung,Bang Kaeo,Khok Sak,ณิชาพร ไชยโยธา,'0987234839,,unreal,notCustomer
+IDpTZQQSpc,หอพักนายเอก,Basic Package,11,1,7.5113368,99.615389,unReachable,Trang,Mueang Trang,Khok Lo,กนกศรี มูสิกะเจริญ,'0619718928,ekachai1892@gmail.com,unreal,notCustomer
+M6Jw0f1x3p,หอแมวเหมียว,Basic Package,20,5,6.4936584,101.7637775,unReachable,Narathiwat,Mueang Narathiwat,Khok Khian,น.ส.จัศมินทร์ มะ,'0952065379,jasmin.ma2545@gmail.com,unreal,notCustomer
+rhD6Ppgtom,แมน แมนชั่น,Basic Package,30,3,6.0857839,101.879019,unReachable,Narathiwat,Su-ngai Padi,To Deng,บุญพอ มีเท,'0641506719,,unreal,notCustomer
+S1sUye77Pw,test,Basic Package,4,1,6.2597802,102.0533967,noBussiness,Narathiwat,Tak Bai,Phrai Wan,test test,'0638400703,asdfasdfasdf@gmail.com,unreal,notCustomer
