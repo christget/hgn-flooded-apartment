@@ -31,6 +31,12 @@ sub_district = st.sidebar.multiselect('ตำบล/แขวง',
 st.sidebar.header('Customer Selection')
 validated_type = st.sidebar.multiselect('Validated Type', options=noi_df['validatedType'].unique().tolist())
 is_customer = st.sidebar.multiselect('Is Customer', options=noi_df['isCustomer'].unique().tolist())
+occ_rate_range_pct = st.sidebar.slider(
+    'Occupancy Rate (กรอกเฉพาะหอนอกพื้นที่)',
+    min_value=0,
+    max_value=100,
+    value=(0, 100)
+)
 
 filter_df = noi_df.copy()
 if province:
@@ -43,6 +49,29 @@ if validated_type:
     filter_df = filter_df[filter_df['validatedType'].isin(validated_type)]
 if is_customer:
     filter_df = filter_df[filter_df['isCustomer'].isin(is_customer)]
+
+if 'occRate' in filter_df.columns:
+    occ_rate_min = occ_rate_range_pct[0] / 100.0
+    occ_rate_max = occ_rate_range_pct[1] / 100.0
+
+    safe_zone_condition = (
+        (filter_df['isCustomer'] == 'isCustomer (safe zone)') &
+        (filter_df['occRate'].notna()) &
+        (filter_df['occRate'] >= occ_rate_min) &
+        (filter_df['occRate'] <= occ_rate_max)
+    )
+    other_customer_condition = (filter_df['isCustomer'] != 'isCustomer (safe zone)')
+
+    filter_df = filter_df[safe_zone_condition | other_customer_condition]
+
+watched_list_count = filter_df[filter_df['isCustomer'] == 'isCustomer (watched list)'].shape[0]
+safe_zone_count = filter_df[filter_df['isCustomer'] == 'isCustomer (safe zone)'].shape[0]
+not_customer_count = filter_df[filter_df['isCustomer'] == 'notCustomer'].shape[0]
+
+col1, col2, col3 = st.columns(3)
+col1.metric("หอในพื้นที่ประสบเหตุ (isCustmer)", f"{watched_list_count:,}")
+col2.metric("หอในพื้นที่ประสบเหตุ (notCustmer)", f"{not_customer_count:,}")
+col3.metric("หอพักนอกพื้นที่ประสบเหตุ (isCustmer)", f"{safe_zone_count:,}")
 
 sub_district_geojson_file = 'subdistricts.geojson'
 
@@ -73,6 +102,8 @@ if 'latitude' in filter_df.columns and 'longitude' in filter_df.columns:
         'longitude', 
         'totalFloor', 
         'numOfRooms', 
+        'occupaidRoomCount', 
+        'occRate',
         'apartmentType', 
         'owner_name',
         'tel',
@@ -84,7 +115,7 @@ if 'latitude' in filter_df.columns and 'longitude' in filter_df.columns:
 
     
     if not scatter_df.empty:
-        custom_data_cols = ['totalFloor', 'numOfRooms', 'apartmentType', 'owner_name', 'tel', 'email', 'validatedType', 'isCustomer']
+        custom_data_cols = ['totalFloor', 'numOfRooms', 'occupaidRoomCount', 'occRate', 'apartmentType', 'owner_name', 'tel', 'email', 'validatedType', 'isCustomer']
         scatter_fig = px.scatter_mapbox(scatter_df,
                                         lat="latitude",
                                         lon="longitude",
@@ -102,12 +133,14 @@ if 'latitude' in filter_df.columns and 'longitude' in filter_df.columns:
                 "<b>%{hovertext}</b><br><br>"
                 "<b>Total Floor:</b> %{customdata[0]}<br>"
                 "<b>Number of Rooms:</b> %{customdata[1]}<br>"
-                "<b>Apartment Type:</b> %{customdata[2]}<br>"
-                "<b>Owner Name:</b> %{customdata[3]}<br>"
-                "<b>Tel:</b> %{customdata[4]}<br>"
-                "<b>Email:</b> %{customdata[5]}<br>"
-                "<b>Validated Type:</b> %{customdata[6]}<br>"
-                "<b>Is Customer:</b> %{customdata[7]}<br>"
+                "<b>Occupied Room Count:</b> %{customdata[2]}<br>"
+                "<b>Occupancy Rate:</b> %{customdata[3]:.2%}<br>"
+                "<b>Apartment Type:</b> %{customdata[4]}<br>"
+                "<b>Owner Name:</b> %{customdata[5]}<br>"
+                "<b>Tel:</b> %{customdata[6]}<br>"
+                "<b>Email:</b> %{customdata[7]}<br>"
+                "<b>Validated Type:</b> %{customdata[8]}<br>"
+                "<b>Is Customer:</b> %{customdata[9]}<br>"
                 "<extra></extra>"
             ),
             marker=dict(size=15)
